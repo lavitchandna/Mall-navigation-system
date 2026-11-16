@@ -219,20 +219,31 @@ export class ApiError extends Error {
   }
 }
 
-const baseUrl = (process.env.NEXT_PUBLIC_API_URL || process.env.NEXT_PUBLIC_MALL_API_URL || 'http://127.0.0.1:5001').trim().replace(/\/+$/, '')
+function getBaseUrl(): string {
+  const publicUrl = process.env.NEXT_PUBLIC_API_URL || process.env.NEXT_PUBLIC_MALL_API_URL
+  if (publicUrl) return publicUrl.trim().replace(/\/+$/, '')
+
+  // Server-side (Functions/SSR): use the bound internal service URL
+  if (typeof window === 'undefined') {
+    return (process.env.MALL_API_URL || 'http://127.0.0.1:5001').trim().replace(/\/+$/, '')
+  }
+
+  // Client-side in browser: use same-origin relative URL (handled by Vercel top-level rewrites)
+  return ''
+}
+
 const REQUEST_TIMEOUT_MS = 10_000
 
 async function request<T>(path: string, init?: RequestInit): Promise<T> {
-  if (!baseUrl) {
-    throw new ApiError('config', 'The mall service address is not configured. Set NEXT_PUBLIC_API_URL in .env.local.')
-  }
+  const base = getBaseUrl()
+  const targetUrl = base ? `${base}${path}` : path
 
   const controller = new AbortController()
   const timer = setTimeout(() => controller.abort(), REQUEST_TIMEOUT_MS)
   try {
     let response: Response
     try {
-      response = await fetch(`${baseUrl}${path}`, {
+      response = await fetch(targetUrl, {
         ...init,
         signal: controller.signal,
         headers: { Accept: 'application/json', ...init?.headers },

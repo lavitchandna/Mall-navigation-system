@@ -1,14 +1,18 @@
 import { NextRequest, NextResponse } from 'next/server'
 
-const MALL_API_URL = (
-  process.env.NEXT_PUBLIC_MALL_API_URL ||
-  process.env.NEXT_PUBLIC_API_URL ||
-  'http://127.0.0.1:5001'
-).replace(/\/+$/, '')
+function getBackendBaseUrl(): string {
+  const url =
+    process.env.MALL_API_URL ||
+    process.env.NEXT_PUBLIC_MALL_API_URL ||
+    process.env.NEXT_PUBLIC_API_URL ||
+    'http://127.0.0.1:5001'
+  return url.replace(/\/+$/, '')
+}
 
 export async function GET() {
   try {
-    const res = await fetch(`${MALL_API_URL}/api/chat/status`, {
+    const targetUrl = new URL('/api/chat/status', getBackendBaseUrl())
+    const res = await fetch(targetUrl, {
       headers: { Accept: 'application/json' },
       cache: 'no-store',
     })
@@ -44,7 +48,8 @@ export async function POST(req: NextRequest) {
     const { messages = [], currentFloor = null } = body
 
     // Forward to Flask backend which executes xAI Grok and real mall tools
-    const flaskRes = await fetch(`${MALL_API_URL}/api/chat`, {
+    const targetUrl = new URL('/api/chat', getBackendBaseUrl())
+    const flaskRes = await fetch(targetUrl, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',

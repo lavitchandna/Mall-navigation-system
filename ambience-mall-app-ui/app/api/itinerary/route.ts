@@ -1,15 +1,19 @@
 import { NextRequest, NextResponse } from 'next/server'
 
-const MALL_API_URL = (
-  process.env.NEXT_PUBLIC_MALL_API_URL ||
-  process.env.NEXT_PUBLIC_API_URL ||
-  'http://127.0.0.1:5001'
-).replace(/\/+$/, '')
+function getBackendBaseUrl(): string {
+  const url =
+    process.env.MALL_API_URL ||
+    process.env.NEXT_PUBLIC_MALL_API_URL ||
+    process.env.NEXT_PUBLIC_API_URL ||
+    'http://127.0.0.1:5001'
+  return url.replace(/\/+$/, '')
+}
 
 export async function POST(req: NextRequest) {
   try {
     const body = await req.json()
-    const res = await fetch(`${MALL_API_URL}/api/itinerary`, {
+    const targetUrl = new URL('/api/itinerary', getBackendBaseUrl())
+    const res = await fetch(targetUrl, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
       body: JSON.stringify(body),

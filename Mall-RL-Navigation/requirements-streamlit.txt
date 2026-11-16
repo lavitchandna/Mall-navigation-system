@@ -1,0 +1,8 @@
+gymnasium
+numpy
+streamlit
+matplotlib
+plotly
+pandas
+flask
+requests

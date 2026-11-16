@@ -1,7 +1,4 @@
-gymnasium
-numpy
-streamlit
-matplotlib
-plotly
-pandas
 flask
+numpy
+gymnasium
+requests
