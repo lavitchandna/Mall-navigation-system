@@ -1,0 +1,6906 @@
+{
+  "version": "4.0.0-accurate-indoor-aligned",
+  "description": "Ground floor corridor network aligned 1:1 with official floor map",
+  "nodes": [
+    {
+      "id": "F1_CORR_N01",
+      "name": "North Wing (Kompanero)",
+      "floor": 1,
+      "x": 350.0,
+      "y": 200.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_N02",
+      "name": "North Wing (Home Centre)",
+      "floor": 1,
+      "x": 500.0,
+      "y": 500.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_N_ATRIUM",
+      "name": "First Floor North Atrium",
+      "floor": 1,
+      "x": 700.0,
+      "y": 900.0,
+      "type": "junction",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_N03",
+      "name": "North Promenade (Titan / Helios)",
+      "floor": 1,
+      "x": 700.0,
+      "y": 1000.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_N04",
+      "name": "North Promenade (Chaayos / Diamond)",
+      "floor": 1,
+      "x": 700.0,
+      "y": 1150.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_N05",
+      "name": "North Promenade (Kazo / Ranna)",
+      "floor": 1,
+      "x": 800.0,
+      "y": 1380.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_N06",
+      "name": "North Promenade (Om Books)",
+      "floor": 1,
+      "x": 950.0,
+      "y": 1460.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_C01",
+      "name": "Central Boulevard (MASABA / Loom)",
+      "floor": 1,
+      "x": 700.0,
+      "y": 1850.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_C02",
+      "name": "Central Boulevard (Basanti / Mulmul)",
+      "floor": 1,
+      "x": 700.0,
+      "y": 2500.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_C03",
+      "name": "Central Boulevard (Anita / American Eagle)",
+      "floor": 1,
+      "x": 850.0,
+      "y": 2750.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_C04",
+      "name": "Central Boulevard (Benetton / Bluorng)",
+      "floor": 1,
+      "x": 950.0,
+      "y": 2870.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_ATRIUM",
+      "name": "First Floor Central Grand Atrium",
+      "floor": 1,
+      "x": 1050.0,
+      "y": 3100.0,
+      "type": "junction",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_C05",
+      "name": "Central Boulevard (STRIDE / Louis Philippe)",
+      "floor": 1,
+      "x": 1100.0,
+      "y": 3150.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_C06",
+      "name": "Central Boulevard (Celio / Souled Store)",
+      "floor": 1,
+      "x": 1100.0,
+      "y": 3350.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_C07",
+      "name": "Central Boulevard (SK ARTS / Rare Rabbit)",
+      "floor": 1,
+      "x": 1100.0,
+      "y": 3450.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_C08",
+      "name": "Central Boulevard (Raymond / Arrow)",
+      "floor": 1,
+      "x": 1100.0,
+      "y": 3580.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_C09",
+      "name": "Central Boulevard (Bose / Van Heusen)",
+      "floor": 1,
+      "x": 1100.0,
+      "y": 3750.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_C10",
+      "name": "Central Boulevard (Skechers / Rosso)",
+      "floor": 1,
+      "x": 1100.0,
+      "y": 3960.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_S01",
+      "name": "South Wing (US Polo / New Balance)",
+      "floor": 1,
+      "x": 1150.0,
+      "y": 4150.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_S02",
+      "name": "South Wing (Puma / Nike / BlueStone)",
+      "floor": 1,
+      "x": 1150.0,
+      "y": 4350.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_S03",
+      "name": "South Wing (Hidesign)",
+      "floor": 1,
+      "x": 1150.0,
+      "y": 4450.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_S04",
+      "name": "South Wing (Adidas)",
+      "floor": 1,
+      "x": 1150.0,
+      "y": 4650.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_S05",
+      "name": "South Wing (Pantaloons)",
+      "floor": 1,
+      "x": 1200.0,
+      "y": 4900.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_S06",
+      "name": "South Wing (Asics / Marks & Spencer)",
+      "floor": 1,
+      "x": 1000.0,
+      "y": 4960.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_SOUTH_ATRIUM",
+      "name": "First Floor South Atrium",
+      "floor": 1,
+      "x": 1200.0,
+      "y": 5250.0,
+      "type": "junction",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_S07",
+      "name": "South Wing (Tissot / Tanishq / Crocs)",
+      "floor": 1,
+      "x": 1200.0,
+      "y": 5230.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_S08",
+      "name": "South Wing (Taneira)",
+      "floor": 1,
+      "x": 1300.0,
+      "y": 5350.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_S09",
+      "name": "South Wing (Kalyan Jewellers)",
+      "floor": 1,
+      "x": 1400.0,
+      "y": 5550.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F1_CORR_S10",
+      "name": "South Wing (Hamley's)",
+      "floor": 1,
+      "x": 1400.0,
+      "y": 6135.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "LIFT_NORTH_F1",
+      "name": "North Glass Elevator (F1)",
+      "floor": 1,
+      "x": 740.0,
+      "y": 900.0,
+      "type": "lift",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ESC_NORTH_F1",
+      "name": "North Escalator (F1)",
+      "floor": 1,
+      "x": 720.0,
+      "y": 930.0,
+      "type": "escalator",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "STAIRS_NORTH_F1",
+      "name": "North Staircase (F1)",
+      "floor": 1,
+      "x": 690.0,
+      "y": 930.0,
+      "type": "staircase",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "LIFT_CENTRAL_F1",
+      "name": "Central Atrium Elevator (F1)",
+      "floor": 1,
+      "x": 1080.0,
+      "y": 3100.0,
+      "type": "lift",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ESC_CENTRAL_F1",
+      "name": "Central Atrium Escalator (F1)",
+      "floor": 1,
+      "x": 1060.0,
+      "y": 3130.0,
+      "type": "escalator",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "STAIRS_CENTRAL_F1",
+      "name": "Central Atrium Stairs (F1)",
+      "floor": 1,
+      "x": 1030.0,
+      "y": 3130.0,
+      "type": "staircase",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "LIFT_SOUTH_F1",
+      "name": "South Boulevard Elevator (F1)",
+      "floor": 1,
+      "x": 1240.0,
+      "y": 5250.0,
+      "type": "lift",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ESC_SOUTH_F1",
+      "name": "South Escalator (F1)",
+      "floor": 1,
+      "x": 1220.0,
+      "y": 5280.0,
+      "type": "escalator",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "STAIRS_SOUTH_F1",
+      "name": "South Staircase (F1)",
+      "floor": 1,
+      "x": 1190.0,
+      "y": 5280.0,
+      "type": "staircase",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_001",
+      "name": "Asics (Entrance)",
+      "floor": 1,
+      "x": 839.82,
+      "y": 4959.84,
+      "type": "shop_entrance",
+      "poi_id": "F1_001",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_002",
+      "name": "Crocs (Entrance)",
+      "floor": 1,
+      "x": 919.83,
+      "y": 5067.34,
+      "type": "shop_entrance",
+      "poi_id": "F1_002",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_003",
+      "name": "Kalyan Jewellers (Entrance)",
+      "floor": 1,
+      "x": 1514.51,
+      "y": 5548.88,
+      "type": "shop_entrance",
+      "poi_id": "F1_003",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_004",
+      "name": "Hamley's (Entrance)",
+      "floor": 1,
+      "x": 1508.72,
+      "y": 6135.18,
+      "type": "shop_entrance",
+      "poi_id": "F1_004",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_005",
+      "name": "Taneira (Entrance)",
+      "floor": 1,
+      "x": 1506.29,
+      "y": 5466.51,
+      "type": "shop_entrance",
+      "poi_id": "F1_005",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_006",
+      "name": "Tanishq (Entrance)",
+      "floor": 1,
+      "x": 1441.12,
+      "y": 5297.11,
+      "type": "shop_entrance",
+      "poi_id": "F1_006",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_007",
+      "name": "Pantaloons (Entrance)",
+      "floor": 1,
+      "x": 1366.72,
+      "y": 4897.5,
+      "type": "shop_entrance",
+      "poi_id": "F1_007",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_008",
+      "name": "Adidas (Entrance)",
+      "floor": 1,
+      "x": 862.97,
+      "y": 4832.84,
+      "type": "shop_entrance",
+      "poi_id": "F1_008",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_009",
+      "name": "Nike (Entrance)",
+      "floor": 1,
+      "x": 979.2,
+      "y": 4434.27,
+      "type": "shop_entrance",
+      "poi_id": "F1_009",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_010",
+      "name": "BlueStone Mens (Entrance)",
+      "floor": 1,
+      "x": 1062.54,
+      "y": 4337.84,
+      "type": "shop_entrance",
+      "poi_id": "F1_010",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_011",
+      "name": "Hidesign (Entrance)",
+      "floor": 1,
+      "x": 1129.5,
+      "y": 4450.3,
+      "type": "shop_entrance",
+      "poi_id": "F1_011",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_012",
+      "name": "Puma (Entrance)",
+      "floor": 1,
+      "x": 1331.12,
+      "y": 4431.9,
+      "type": "shop_entrance",
+      "poi_id": "F1_012",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_013",
+      "name": "New Balance (Entrance)",
+      "floor": 1,
+      "x": 1322.47,
+      "y": 4188.19,
+      "type": "shop_entrance",
+      "poi_id": "F1_013",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_014",
+      "name": "US Polo Association (Entrance)",
+      "floor": 1,
+      "x": 1310.15,
+      "y": 4123.65,
+      "type": "shop_entrance",
+      "poi_id": "F1_014",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_015",
+      "name": "Rosso Brunello (Entrance)",
+      "floor": 1,
+      "x": 1310.4,
+      "y": 4075.64,
+      "type": "shop_entrance",
+      "poi_id": "F1_015",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_016",
+      "name": "Skechers (Entrance)",
+      "floor": 1,
+      "x": 1003.45,
+      "y": 3959.53,
+      "type": "shop_entrance",
+      "poi_id": "F1_016",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_017",
+      "name": "Arrow (Entrance)",
+      "floor": 1,
+      "x": 991.45,
+      "y": 3590.08,
+      "type": "shop_entrance",
+      "poi_id": "F1_017",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_018",
+      "name": "Bose (Entrance)",
+      "floor": 1,
+      "x": 1000.36,
+      "y": 3748.8,
+      "type": "shop_entrance",
+      "poi_id": "F1_018",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_019",
+      "name": "The Souled Store (Entrance)",
+      "floor": 1,
+      "x": 962.78,
+      "y": 3359.96,
+      "type": "shop_entrance",
+      "poi_id": "F1_019",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_020",
+      "name": "SK ARTS (Entrance)",
+      "floor": 1,
+      "x": 1089.76,
+      "y": 3448.9,
+      "type": "shop_entrance",
+      "poi_id": "F1_020",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_021",
+      "name": "RAMAYA (KIOSK) (Entrance)",
+      "floor": 1,
+      "x": 1139.49,
+      "y": 3574.36,
+      "type": "shop_entrance",
+      "poi_id": "F1_021",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_022",
+      "name": "Celio (Entrance)",
+      "floor": 1,
+      "x": 1251.9,
+      "y": 3322.27,
+      "type": "shop_entrance",
+      "poi_id": "F1_022",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_023",
+      "name": "Rare Rabbit (Entrance)",
+      "floor": 1,
+      "x": 1258.13,
+      "y": 3446.5,
+      "type": "shop_entrance",
+      "poi_id": "F1_023",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_024",
+      "name": "The Raymond Shop (Entrance)",
+      "floor": 1,
+      "x": 1265.34,
+      "y": 3589.0,
+      "type": "shop_entrance",
+      "poi_id": "F1_024",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_025",
+      "name": "Van Heusen (Entrance)",
+      "floor": 1,
+      "x": 1271.04,
+      "y": 3755.3,
+      "type": "shop_entrance",
+      "poi_id": "F1_025",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_026",
+      "name": "Louis Philippe (Entrance)",
+      "floor": 1,
+      "x": 1242.9,
+      "y": 3138.18,
+      "type": "shop_entrance",
+      "poi_id": "F1_026",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_027",
+      "name": "United Colors of (Entrance)",
+      "floor": 1,
+      "x": 1237.83,
+      "y": 3031.4,
+      "type": "shop_entrance",
+      "poi_id": "F1_027",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_028",
+      "name": "Benetton (Mens) (Entrance)",
+      "floor": 1,
+      "x": 1235.26,
+      "y": 3037.7,
+      "type": "shop_entrance",
+      "poi_id": "F1_028",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_029",
+      "name": "American Eagle (Entrance)",
+      "floor": 1,
+      "x": 1143.34,
+      "y": 2825.84,
+      "type": "shop_entrance",
+      "poi_id": "F1_029",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_030",
+      "name": "Bluorng (Entrance)",
+      "floor": 1,
+      "x": 768.71,
+      "y": 2809.58,
+      "type": "shop_entrance",
+      "poi_id": "F1_030",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_031",
+      "name": "STRIDE (Entrance)",
+      "floor": 1,
+      "x": 842.31,
+      "y": 2945.22,
+      "type": "shop_entrance",
+      "poi_id": "F1_031",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_032",
+      "name": "Coyu (Entrance)",
+      "floor": 1,
+      "x": 906.81,
+      "y": 3111.64,
+      "type": "shop_entrance",
+      "poi_id": "F1_032",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_033",
+      "name": "Style Island (Entrance)",
+      "floor": 1,
+      "x": 658.04,
+      "y": 2552.88,
+      "type": "shop_entrance",
+      "poi_id": "F1_033",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_034",
+      "name": "Anita Dongre (Entrance)",
+      "floor": 1,
+      "x": 755.94,
+      "y": 2745.68,
+      "type": "shop_entrance",
+      "poi_id": "F1_034",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_035",
+      "name": "Basanti Kapde (Entrance)",
+      "floor": 1,
+      "x": 657.7,
+      "y": 2518.88,
+      "type": "shop_entrance",
+      "poi_id": "F1_035",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_036",
+      "name": "Aur Koffee (Entrance)",
+      "floor": 1,
+      "x": 655.15,
+      "y": 2524.78,
+      "type": "shop_entrance",
+      "poi_id": "F1_036",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_037",
+      "name": "Mulmul (Entrance)",
+      "floor": 1,
+      "x": 650.02,
+      "y": 2467.02,
+      "type": "shop_entrance",
+      "poi_id": "F1_037",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_038",
+      "name": "Tissot (Entrance)",
+      "floor": 1,
+      "x": 854.32,
+      "y": 5069.46,
+      "type": "shop_entrance",
+      "poi_id": "F1_038",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_039",
+      "name": "MASABA (Entrance)",
+      "floor": 1,
+      "x": 635.64,
+      "y": 1818.0,
+      "type": "shop_entrance",
+      "poi_id": "F1_039",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_040",
+      "name": "The Loom (Entrance)",
+      "floor": 1,
+      "x": 635.5,
+      "y": 1883.29,
+      "type": "shop_entrance",
+      "poi_id": "F1_040",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_041",
+      "name": "JJ Valaya (Entrance)",
+      "floor": 1,
+      "x": 636.67,
+      "y": 1948.25,
+      "type": "shop_entrance",
+      "poi_id": "F1_041",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_042",
+      "name": "CHIQUE (Entrance)",
+      "floor": 1,
+      "x": 697.34,
+      "y": 1419.72,
+      "type": "shop_entrance",
+      "poi_id": "F1_042",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_043",
+      "name": "Ranna Gill (Entrance)",
+      "floor": 1,
+      "x": 704.06,
+      "y": 1382.9,
+      "type": "shop_entrance",
+      "poi_id": "F1_043",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_044",
+      "name": "Kazo (Entrance)",
+      "floor": 1,
+      "x": 1037.11,
+      "y": 1419.4,
+      "type": "shop_entrance",
+      "poi_id": "F1_044",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_045",
+      "name": "Om Book Shop (Entrance)",
+      "floor": 1,
+      "x": 1090.64,
+      "y": 1460.83,
+      "type": "shop_entrance",
+      "poi_id": "F1_045",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_046",
+      "name": "World of Watches (Entrance)",
+      "floor": 1,
+      "x": 827.44,
+      "y": 915.08,
+      "type": "shop_entrance",
+      "poi_id": "F1_046",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_047",
+      "name": "World of Titan (Entrance)",
+      "floor": 1,
+      "x": 804.39,
+      "y": 878.77,
+      "type": "shop_entrance",
+      "poi_id": "F1_047",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_048",
+      "name": "& Helios (Entrance)",
+      "floor": 1,
+      "x": 800.82,
+      "y": 884.91,
+      "type": "shop_entrance",
+      "poi_id": "F1_048",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_049",
+      "name": "Ramaya (Entrance)",
+      "floor": 1,
+      "x": 651.19,
+      "y": 906.74,
+      "type": "shop_entrance",
+      "poi_id": "F1_049",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_050",
+      "name": "Home Decor (Entrance)",
+      "floor": 1,
+      "x": 651.15,
+      "y": 912.38,
+      "type": "shop_entrance",
+      "poi_id": "F1_050",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_051",
+      "name": "Diamond Plus (Entrance)",
+      "floor": 1,
+      "x": 661.81,
+      "y": 1014.16,
+      "type": "shop_entrance",
+      "poi_id": "F1_051",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_052",
+      "name": "Chaayos (Entrance)",
+      "floor": 1,
+      "x": 658.53,
+      "y": 1155.25,
+      "type": "shop_entrance",
+      "poi_id": "F1_052",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_053",
+      "name": "Home Centre (Entrance)",
+      "floor": 1,
+      "x": 579.22,
+      "y": 475.05,
+      "type": "shop_entrance",
+      "poi_id": "F1_053",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_054",
+      "name": "Titan Eye Plus (Entrance)",
+      "floor": 1,
+      "x": 778.62,
+      "y": 837.18,
+      "type": "shop_entrance",
+      "poi_id": "F1_054",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_055",
+      "name": "Kompanero (Entrance)",
+      "floor": 1,
+      "x": 381.4,
+      "y": 160.0,
+      "type": "shop_entrance",
+      "poi_id": "F1_055",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_056",
+      "name": "LeToe's (Entrance)",
+      "floor": 1,
+      "x": 439.2,
+      "y": 538.4,
+      "type": "shop_entrance",
+      "poi_id": "F1_056",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_057",
+      "name": "The Sleep company (Entrance)",
+      "floor": 1,
+      "x": 373.57,
+      "y": 495.94,
+      "type": "shop_entrance",
+      "poi_id": "F1_057",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_058",
+      "name": "Uchaan Arts (Entrance)",
+      "floor": 1,
+      "x": 250.0,
+      "y": 238.23,
+      "type": "shop_entrance",
+      "poi_id": "F1_058",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F1_059",
+      "name": "Marks & Spencer (Entrance)",
+      "floor": 1,
+      "x": 843.27,
+      "y": 4963.7,
+      "type": "shop_entrance",
+      "poi_id": "F1_059",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F2_CORR_N01",
+      "name": "Second Floor North (Homestories / Paihia)",
+      "floor": 2,
+      "x": 260.0,
+      "y": 80.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F2_CORR_N02",
+      "name": "Second Floor North (Toy Factory)",
+      "floor": 2,
+      "x": 260.0,
+      "y": 130.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F2_CORR_NORTH_ATRIUM",
+      "name": "Second Floor North Atrium",
+      "floor": 2,
+      "x": 260.0,
+      "y": 170.0,
+      "type": "junction",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F2_CORR_N03",
+      "name": "Second Floor North (Sony / Meena / Ecco)",
+      "floor": 2,
+      "x": 260.0,
+      "y": 200.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F2_CORR_N04",
+      "name": "Second Floor Promenade (Jaypore / Suvasa)",
+      "floor": 2,
+      "x": 240.0,
+      "y": 240.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F2_CORR_N05",
+      "name": "Second Floor Promenade (Hush Puppies / Samsung)",
+      "floor": 2,
+      "x": 200.0,
+      "y": 270.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F2_CORR_C01",
+      "name": "Second Floor Central (Croma / Reliance)",
+      "floor": 2,
+      "x": 250.0,
+      "y": 350.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F2_CORR_C02",
+      "name": "Second Floor Central (GADGET ZONE / Chicco)",
+      "floor": 2,
+      "x": 250.0,
+      "y": 420.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F2_CORR_C03",
+      "name": "Second Floor Central (Saundh / Shoe Lounge)",
+      "floor": 2,
+      "x": 250.0,
+      "y": 460.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F2_CORR_CENTRAL_ATRIUM",
+      "name": "Second Floor Central Grand Atrium",
+      "floor": 2,
+      "x": 260.0,
+      "y": 500.0,
+      "type": "junction",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F2_CORR_C04",
+      "name": "Second Floor Central (Gipsy / Nail Edit)",
+      "floor": 2,
+      "x": 250.0,
+      "y": 550.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F2_CORR_C05",
+      "name": "Second Floor Central (Adidas / ANCESTRY)",
+      "floor": 2,
+      "x": 250.0,
+      "y": 620.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F2_CORR_S01",
+      "name": "Second Floor South (Go Colors / Iconic Kids)",
+      "floor": 2,
+      "x": 250.0,
+      "y": 680.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F2_CORR_S02",
+      "name": "Second Floor South (Reliance Digital / ZONE)",
+      "floor": 2,
+      "x": 250.0,
+      "y": 750.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F2_CORR_SOUTH_ATRIUM",
+      "name": "Second Floor South Atrium",
+      "floor": 2,
+      "x": 260.0,
+      "y": 820.0,
+      "type": "junction",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F2_CORR_S03",
+      "name": "Second Floor South (Biba / Soch / Kate)",
+      "floor": 2,
+      "x": 260.0,
+      "y": 860.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "F2_CORR_S04",
+      "name": "Second Floor South (Fab India / Sabhyata / Panna)",
+      "floor": 2,
+      "x": 260.0,
+      "y": 930.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "LIFT_NORTH_F2",
+      "name": "North Glass Elevator (F2)",
+      "floor": 2,
+      "x": 290.0,
+      "y": 170.0,
+      "type": "lift",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ESC_NORTH_F2",
+      "name": "North Escalator (F2)",
+      "floor": 2,
+      "x": 270.0,
+      "y": 190.0,
+      "type": "escalator",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "STAIRS_NORTH_F2",
+      "name": "North Staircase (F2)",
+      "floor": 2,
+      "x": 240.0,
+      "y": 190.0,
+      "type": "staircase",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "LIFT_CENTRAL_F2",
+      "name": "Central Atrium Elevator (F2)",
+      "floor": 2,
+      "x": 290.0,
+      "y": 500.0,
+      "type": "lift",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ESC_CENTRAL_F2",
+      "name": "Central Atrium Escalator (F2)",
+      "floor": 2,
+      "x": 270.0,
+      "y": 520.0,
+      "type": "escalator",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "STAIRS_CENTRAL_F2",
+      "name": "Central Atrium Stairs (F2)",
+      "floor": 2,
+      "x": 240.0,
+      "y": 520.0,
+      "type": "staircase",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "LIFT_SOUTH_F2",
+      "name": "South Boulevard Elevator (F2)",
+      "floor": 2,
+      "x": 290.0,
+      "y": 820.0,
+      "type": "lift",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ESC_SOUTH_F2",
+      "name": "South Escalator (F2)",
+      "floor": 2,
+      "x": 270.0,
+      "y": 840.0,
+      "type": "escalator",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "STAIRS_SOUTH_F2",
+      "name": "South Staircase (F2)",
+      "floor": 2,
+      "x": 240.0,
+      "y": 840.0,
+      "type": "staircase",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_ACCESS",
+      "name": "Access (Entrance)",
+      "floor": 2,
+      "x": 341.1,
+      "y": 412.3,
+      "type": "shop_entrance",
+      "poi_id": "F2_ACCESS",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_ACCESSORIZE",
+      "name": "Accessorize (Entrance)",
+      "floor": 2,
+      "x": 253.3,
+      "y": 363.2,
+      "type": "shop_entrance",
+      "poi_id": "F2_ACCESSORIZE",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_ADIDAS",
+      "name": "Adidas (Entrance)",
+      "floor": 2,
+      "x": 341.8,
+      "y": 622.5,
+      "type": "shop_entrance",
+      "poi_id": "F2_ADIDAS",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_ADIDASKIDS",
+      "name": "Adidas Kids (Entrance)",
+      "floor": 2,
+      "x": 237.0,
+      "y": 628.7,
+      "type": "shop_entrance",
+      "poi_id": "F2_ADIDASKIDS",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_ANCESTRY",
+      "name": "ANCESTRY (Entrance)",
+      "floor": 2,
+      "x": 263.9,
+      "y": 617.0,
+      "type": "shop_entrance",
+      "poi_id": "F2_ANCESTRY",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_ANOKHI",
+      "name": "Anokhi (Entrance)",
+      "floor": 2,
+      "x": 196.9,
+      "y": 87.6,
+      "type": "shop_entrance",
+      "poi_id": "F2_ANOKHI",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_ATUN",
+      "name": "ATUN (Entrance)",
+      "floor": 2,
+      "x": 313.4,
+      "y": 681.8,
+      "type": "shop_entrance",
+      "poi_id": "F2_ATUN",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_AURELIA",
+      "name": "Aurelia (Entrance)",
+      "floor": 2,
+      "x": 267.7,
+      "y": 691.8,
+      "type": "shop_entrance",
+      "poi_id": "F2_AURELIA",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_BARISTA",
+      "name": "Barista (Entrance)",
+      "floor": 2,
+      "x": 292.2,
+      "y": 87.8,
+      "type": "shop_entrance",
+      "poi_id": "F2_BARISTA",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_BIBA",
+      "name": "Biba (Entrance)",
+      "floor": 2,
+      "x": 280.6,
+      "y": 825.8,
+      "type": "shop_entrance",
+      "poi_id": "F2_BIBA",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_BLUESTONE",
+      "name": "BlueStone (Entrance)",
+      "floor": 2,
+      "x": 198.4,
+      "y": 618.1,
+      "type": "shop_entrance",
+      "poi_id": "F2_BLUESTONE",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_CHICCO",
+      "name": "Chicco (Entrance)",
+      "floor": 2,
+      "x": 274.5,
+      "y": 358.8,
+      "type": "shop_entrance",
+      "poi_id": "F2_CHICCO",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_CHICE",
+      "name": "Chice (Entrance)",
+      "floor": 2,
+      "x": 342.8,
+      "y": 353.7,
+      "type": "shop_entrance",
+      "poi_id": "F2_CHICE",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_CROMA",
+      "name": "Croma (Entrance)",
+      "floor": 2,
+      "x": 312.6,
+      "y": 408.6,
+      "type": "shop_entrance",
+      "poi_id": "F2_CROMA",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_DELSE",
+      "name": "Delse (Entrance)",
+      "floor": 2,
+      "x": 201.2,
+      "y": 920.5,
+      "type": "shop_entrance",
+      "poi_id": "F2_DELSE",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_DELSEY",
+      "name": "Delsey (Entrance)",
+      "floor": 2,
+      "x": 258.7,
+      "y": 935.9,
+      "type": "shop_entrance",
+      "poi_id": "F2_DELSEY",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_ECCOSHOES",
+      "name": "Ecco Shoes (Entrance)",
+      "floor": 2,
+      "x": 216.85,
+      "y": 170.2,
+      "type": "shop_entrance",
+      "poi_id": "F2_ECCOSHOES",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_FABINDIA",
+      "name": "Fab India (Entrance)",
+      "floor": 2,
+      "x": 314.85,
+      "y": 921.1,
+      "type": "shop_entrance",
+      "poi_id": "F2_FABINDIA",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_FORWOMEN",
+      "name": "For Women (Entrance)",
+      "floor": 2,
+      "x": 233.5,
+      "y": 237.8,
+      "type": "shop_entrance",
+      "poi_id": "F2_FORWOMEN",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_GADGE",
+      "name": "GADGE (Entrance)",
+      "floor": 2,
+      "x": 341.6,
+      "y": 423.2,
+      "type": "shop_entrance",
+      "poi_id": "F2_GADGE",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_GADGET",
+      "name": "GADGET (Entrance)",
+      "floor": 2,
+      "x": 345.8,
+      "y": 813.0,
+      "type": "shop_entrance",
+      "poi_id": "F2_GADGET",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_GADGETZONE",
+      "name": "GADGET ZONE (Entrance)",
+      "floor": 2,
+      "x": 325.1,
+      "y": 476.15,
+      "type": "shop_entrance",
+      "poi_id": "F2_GADGETZONE",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_GEETANJALISALON",
+      "name": "Geetanjali Salon (Entrance)",
+      "floor": 2,
+      "x": 249.3,
+      "y": 131.8,
+      "type": "shop_entrance",
+      "poi_id": "F2_GEETANJALISALON",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_GIPSYWOMAN",
+      "name": "Gipsy Woman (Entrance)",
+      "floor": 2,
+      "x": 263.45,
+      "y": 499.7,
+      "type": "shop_entrance",
+      "poi_id": "F2_GIPSYWOMAN",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_GKBOPTICALS",
+      "name": "GKB Opticals (Entrance)",
+      "floor": 2,
+      "x": 212.95,
+      "y": 218.1,
+      "type": "shop_entrance",
+      "poi_id": "F2_GKBOPTICALS",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_GLOBALDESI",
+      "name": "Global Desi (Entrance)",
+      "floor": 2,
+      "x": 227.5,
+      "y": 231.2,
+      "type": "shop_entrance",
+      "poi_id": "F2_GLOBALDESI",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_GOCOLORS",
+      "name": "Go Colors (Entrance)",
+      "floor": 2,
+      "x": 199.45,
+      "y": 678.05,
+      "type": "shop_entrance",
+      "poi_id": "F2_GOCOLORS",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_HEUSENWOMEN",
+      "name": "Heusen Women (Entrance)",
+      "floor": 2,
+      "x": 147.15,
+      "y": 307.5,
+      "type": "shop_entrance",
+      "poi_id": "F2_HEUSENWOMEN",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_HOMESTORIES",
+      "name": "Homestories (Entrance)",
+      "floor": 2,
+      "x": 189.5,
+      "y": 77.8,
+      "type": "shop_entrance",
+      "poi_id": "F2_HOMESTORIES",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_HUSHPUPPIES",
+      "name": "Hush Puppies (Entrance)",
+      "floor": 2,
+      "x": 191.1,
+      "y": 263.6,
+      "type": "shop_entrance",
+      "poi_id": "F2_HUSHPUPPIES",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_ICONICKIDS",
+      "name": "Iconic Kids (Entrance)",
+      "floor": 2,
+      "x": 263.4,
+      "y": 685.3,
+      "type": "shop_entrance",
+      "poi_id": "F2_ICONICKIDS",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_ILEDIT",
+      "name": "il Edit (Entrance)",
+      "floor": 2,
+      "x": 164.15,
+      "y": 466.95,
+      "type": "shop_entrance",
+      "poi_id": "F2_ILEDIT",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_JALISALON",
+      "name": "jali Salon (Entrance)",
+      "floor": 2,
+      "x": 186.1,
+      "y": 761.55,
+      "type": "shop_entrance",
+      "poi_id": "F2_JALISALON",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_JAYPORE",
+      "name": "Jaypore (Entrance)",
+      "floor": 2,
+      "x": 274.0,
+      "y": 194.9,
+      "type": "shop_entrance",
+      "poi_id": "F2_JAYPORE",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_KATE",
+      "name": "Kate (Entrance)",
+      "floor": 2,
+      "x": 256.9,
+      "y": 874.0,
+      "type": "shop_entrance",
+      "poi_id": "F2_KATE",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_KATEOSCAR",
+      "name": "Kate Oscar (Entrance)",
+      "floor": 2,
+      "x": 182.7,
+      "y": 264.3,
+      "type": "shop_entrance",
+      "poi_id": "F2_KATEOSCAR",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_KIDS",
+      "name": "Kids (Entrance)",
+      "floor": 2,
+      "x": 182.7,
+      "y": 677.2,
+      "type": "shop_entrance",
+      "poi_id": "F2_KIDS",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_KONFO",
+      "name": "Konfo (Entrance)",
+      "floor": 2,
+      "x": 191.1,
+      "y": 253.8,
+      "type": "shop_entrance",
+      "poi_id": "F2_KONFO",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_KUMAR",
+      "name": "Kumar (Entrance)",
+      "floor": 2,
+      "x": 203.7,
+      "y": 764.8,
+      "type": "shop_entrance",
+      "poi_id": "F2_KUMAR",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_LENOVO",
+      "name": "Lenovo (Entrance)",
+      "floor": 2,
+      "x": 336.1,
+      "y": 82.4,
+      "type": "shop_entrance",
+      "poi_id": "F2_LENOVO",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_LENSKART",
+      "name": "Lenskart (Entrance)",
+      "floor": 2,
+      "x": 194.8,
+      "y": 253.0,
+      "type": "shop_entrance",
+      "poi_id": "F2_LENSKART",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_LIDASKIDS",
+      "name": "lidas Kids (Entrance)",
+      "floor": 2,
+      "x": 139.8,
+      "y": 245.0,
+      "type": "shop_entrance",
+      "poi_id": "F2_LIDASKIDS",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_LOOKSUNISEXSALO",
+      "name": "Looks Unisex Salo (Entrance)",
+      "floor": 2,
+      "x": 327.87,
+      "y": 609.6,
+      "type": "shop_entrance",
+      "poi_id": "F2_LOOKSUNISEXSALO",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_LOOKSUNISEXSALON",
+      "name": "Looks Unisex Salon (Entrance)",
+      "floor": 2,
+      "x": 318.6,
+      "y": 479.77,
+      "type": "shop_entrance",
+      "poi_id": "F2_LOOKSUNISEXSALON",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_LOUNGE",
+      "name": "Lounge (Entrance)",
+      "floor": 2,
+      "x": 191.3,
+      "y": 852.7,
+      "type": "shop_entrance",
+      "poi_id": "F2_LOUNGE",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_MEENA",
+      "name": "Meena (Entrance)",
+      "floor": 2,
+      "x": 338.3,
+      "y": 348.7,
+      "type": "shop_entrance",
+      "poi_id": "F2_MEENA",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_MEENABAZAAR",
+      "name": "Meena Bazaar (Entrance)",
+      "floor": 2,
+      "x": 336.1,
+      "y": 207.8,
+      "type": "shop_entrance",
+      "poi_id": "F2_MEENABAZAAR",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_MEENABZ",
+      "name": "Meena Bz (Entrance)",
+      "floor": 2,
+      "x": 347.25,
+      "y": 814.6,
+      "type": "shop_entrance",
+      "poi_id": "F2_MEENABZ",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_MOHANLAL",
+      "name": "MOHANLAL (Entrance)",
+      "floor": 2,
+      "x": 328.4,
+      "y": 630.9,
+      "type": "shop_entrance",
+      "poi_id": "F2_MOHANLAL",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_MOHANLALSONS",
+      "name": "MOHANLAL SONS (Entrance)",
+      "floor": 2,
+      "x": 271.15,
+      "y": 82.9,
+      "type": "shop_entrance",
+      "poi_id": "F2_MOHANLALSONS",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_MOTHERCAR",
+      "name": "MotherCar (Entrance)",
+      "floor": 2,
+      "x": 342.1,
+      "y": 475.2,
+      "type": "shop_entrance",
+      "poi_id": "F2_MOTHERCAR",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_MOTHERCARE",
+      "name": "MotherCare (Entrance)",
+      "floor": 2,
+      "x": 263.0,
+      "y": 423.4,
+      "type": "shop_entrance",
+      "poi_id": "F2_MOTHERCARE",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_NAILASHES",
+      "name": "Nailashes (Entrance)",
+      "floor": 2,
+      "x": 242.8,
+      "y": 253.2,
+      "type": "shop_entrance",
+      "poi_id": "F2_NAILASHES",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_NAILEDIT",
+      "name": "Nail Edit (Entrance)",
+      "floor": 2,
+      "x": 241.85,
+      "y": 562.3,
+      "type": "shop_entrance",
+      "poi_id": "F2_NAILEDIT",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_NAILEDITNA",
+      "name": "Nail Edit Na (Entrance)",
+      "floor": 2,
+      "x": 335.1,
+      "y": 209.9,
+      "type": "shop_entrance",
+      "poi_id": "F2_NAILEDITNA",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_NEFRIDAY",
+      "name": "NE FRIDAY (Entrance)",
+      "floor": 2,
+      "x": 185.75,
+      "y": 689.8,
+      "type": "shop_entrance",
+      "poi_id": "F2_NEFRIDAY",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_NOITRE",
+      "name": "Noi Tre (Entrance)",
+      "floor": 2,
+      "x": 181.5,
+      "y": 294.95,
+      "type": "shop_entrance",
+      "poi_id": "F2_NOITRE",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_ONEFRIDAY",
+      "name": "ONE FRIDAY (Entrance)",
+      "floor": 2,
+      "x": 176.45,
+      "y": 240.85,
+      "type": "shop_entrance",
+      "poi_id": "F2_ONEFRIDAY",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_OPTICALS",
+      "name": "Opticals (Entrance)",
+      "floor": 2,
+      "x": 212.4,
+      "y": 76.4,
+      "type": "shop_entrance",
+      "poi_id": "F2_OPTICALS",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_OSCAR",
+      "name": "Oscar (Entrance)",
+      "floor": 2,
+      "x": 246.6,
+      "y": 358.3,
+      "type": "shop_entrance",
+      "poi_id": "F2_OSCAR",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_PAIHIAVAREVSV",
+      "name": "Paihia Varevsv (Entrance)",
+      "floor": 2,
+      "x": 328.25,
+      "y": 73.0,
+      "type": "shop_entrance",
+      "poi_id": "F2_PAIHIAVAREVSV",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_PANN",
+      "name": "Pann (Entrance)",
+      "floor": 2,
+      "x": 350.2,
+      "y": 502.6,
+      "type": "shop_entrance",
+      "poi_id": "F2_PANN",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_PANNA",
+      "name": "Panna (Entrance)",
+      "floor": 2,
+      "x": 348.4,
+      "y": 944.6,
+      "type": "shop_entrance",
+      "poi_id": "F2_PANNA",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_PANNASAREES",
+      "name": "Panna Sarees (Entrance)",
+      "floor": 2,
+      "x": 276.1,
+      "y": 414.6,
+      "type": "shop_entrance",
+      "poi_id": "F2_PANNASAREES",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_PANR",
+      "name": "Panr (Entrance)",
+      "floor": 2,
+      "x": 350.6,
+      "y": 82.6,
+      "type": "shop_entrance",
+      "poi_id": "F2_PANR",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_PIES",
+      "name": "pies (Entrance)",
+      "floor": 2,
+      "x": 134.2,
+      "y": 219.6,
+      "type": "shop_entrance",
+      "poi_id": "F2_PIES",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_PTICALS",
+      "name": "pticals (Entrance)",
+      "floor": 2,
+      "x": 165.9,
+      "y": 456.3,
+      "type": "shop_entrance",
+      "poi_id": "F2_PTICALS",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_RELIANCE",
+      "name": "Reliance (Entrance)",
+      "floor": 2,
+      "x": 324.3,
+      "y": 332.0,
+      "type": "shop_entrance",
+      "poi_id": "F2_RELIANCE",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_RELIANCEDIGIT",
+      "name": "Reliance Digit (Entrance)",
+      "floor": 2,
+      "x": 340.1,
+      "y": 194.05,
+      "type": "shop_entrance",
+      "poi_id": "F2_RELIANCEDIGIT",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_RELIANCEDIGITAL",
+      "name": "Reliance Digital (Entrance)",
+      "floor": 2,
+      "x": 284.95,
+      "y": 754.45,
+      "type": "shop_entrance",
+      "poi_id": "F2_RELIANCEDIGITAL",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_RELIANCEDIGITE",
+      "name": "Reliance Digite (Entrance)",
+      "floor": 2,
+      "x": 333.85,
+      "y": 407.7,
+      "type": "shop_entrance",
+      "poi_id": "F2_RELIANCEDIGITE",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_RELIAR",
+      "name": "Reliar (Entrance)",
+      "floor": 2,
+      "x": 349.0,
+      "y": 819.8,
+      "type": "shop_entrance",
+      "poi_id": "F2_RELIAR",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_RITUKUMAR",
+      "name": "Ritu Kumar (Entrance)",
+      "floor": 2,
+      "x": 255.3,
+      "y": 197.0,
+      "type": "shop_entrance",
+      "poi_id": "F2_RITUKUMAR",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_SABHYATA",
+      "name": "Sabhyata (Entrance)",
+      "floor": 2,
+      "x": 273.7,
+      "y": 942.9,
+      "type": "shop_entrance",
+      "poi_id": "F2_SABHYATA",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_SALON",
+      "name": "Salon (Entrance)",
+      "floor": 2,
+      "x": 189.8,
+      "y": 457.3,
+      "type": "shop_entrance",
+      "poi_id": "F2_SALON",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_SAMSONITE",
+      "name": "Samsonite (Entrance)",
+      "floor": 2,
+      "x": 208.1,
+      "y": 88.6,
+      "type": "shop_entrance",
+      "poi_id": "F2_SAMSONITE",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_SAMSUNG",
+      "name": "Samsung (Entrance)",
+      "floor": 2,
+      "x": 178.0,
+      "y": 269.4,
+      "type": "shop_entrance",
+      "poi_id": "F2_SAMSUNG",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_SAUNDH",
+      "name": "Saundh (Entrance)",
+      "floor": 2,
+      "x": 174.3,
+      "y": 461.8,
+      "type": "shop_entrance",
+      "poi_id": "F2_SAUNDH",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_SHOELOUNGE",
+      "name": "Shoe Lounge (Entrance)",
+      "floor": 2,
+      "x": 219.8,
+      "y": 461.7,
+      "type": "shop_entrance",
+      "poi_id": "F2_SHOELOUNGE",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_SHOES",
+      "name": "shoes (Entrance)",
+      "floor": 2,
+      "x": 182.8,
+      "y": 618.9,
+      "type": "shop_entrance",
+      "poi_id": "F2_SHOES",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_SOCH",
+      "name": "Soch (Entrance)",
+      "floor": 2,
+      "x": 287.7,
+      "y": 865.9,
+      "type": "shop_entrance",
+      "poi_id": "F2_SOCH",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_SONITE",
+      "name": "sonite (Entrance)",
+      "floor": 2,
+      "x": 183.0,
+      "y": 563.9,
+      "type": "shop_entrance",
+      "poi_id": "F2_SONITE",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_SONY",
+      "name": "Sony (Entrance)",
+      "floor": 2,
+      "x": 319.6,
+      "y": 207.9,
+      "type": "shop_entrance",
+      "poi_id": "F2_SONY",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_STITCHSTORIES",
+      "name": "Stitch Stories (Entrance)",
+      "floor": 2,
+      "x": 222.15,
+      "y": 79.2,
+      "type": "shop_entrance",
+      "poi_id": "F2_STITCHSTORIES",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_SUNG",
+      "name": "sung (Entrance)",
+      "floor": 2,
+      "x": 134.2,
+      "y": 269.8,
+      "type": "shop_entrance",
+      "poi_id": "F2_SUNG",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_SUVASA",
+      "name": "Suvasa (Entrance)",
+      "floor": 2,
+      "x": 137.1,
+      "y": 255.7,
+      "type": "shop_entrance",
+      "poi_id": "F2_SUVASA",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_SWEETDREAMS",
+      "name": "Sweet Dreams (Entrance)",
+      "floor": 2,
+      "x": 155.25,
+      "y": 259.8,
+      "type": "shop_entrance",
+      "poi_id": "F2_SWEETDREAMS",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_TOYFACTORY",
+      "name": "TOY FACTORY (Entrance)",
+      "floor": 2,
+      "x": 306.0,
+      "y": 124.1,
+      "type": "shop_entrance",
+      "poi_id": "F2_TOYFACTORY",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_VANHEUSENWOMEN",
+      "name": "Van Heusen Women (Entrance)",
+      "floor": 2,
+      "x": 296.1,
+      "y": 172.1,
+      "type": "shop_entrance",
+      "poi_id": "F2_VANHEUSENWOMEN",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_F2_ZONE",
+      "name": "ZONE (Entrance)",
+      "floor": 2,
+      "x": 191.6,
+      "y": 768.2,
+      "type": "shop_entrance",
+      "poi_id": "F2_ZONE",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_GATE_1",
+      "name": "Gate 1 (North Entry / NH-8)",
+      "floor": 0,
+      "x": 415.0,
+      "y": 140.0,
+      "type": "mall_entrance",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_N01",
+      "name": "North Promenade (Paul's / Zoya)",
+      "floor": 0,
+      "x": 440.0,
+      "y": 210.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_N02",
+      "name": "North Promenade (Onitsuka / Charles & Keith)",
+      "floor": 0,
+      "x": 465.0,
+      "y": 260.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_N03",
+      "name": "North Promenade (Diesel / Isharya)",
+      "floor": 0,
+      "x": 490.0,
+      "y": 320.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_N04",
+      "name": "North Promenade (Lacoste / Hackett)",
+      "floor": 0,
+      "x": 510.0,
+      "y": 370.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_N05",
+      "name": "North Promenade (Zara / West Elm / Nicobar)",
+      "floor": 0,
+      "x": 530.0,
+      "y": 430.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_N06",
+      "name": "North Spine (Hugo Boss / Armani)",
+      "floor": 0,
+      "x": 540.0,
+      "y": 500.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_NC01",
+      "name": "Central Spine (Shantnu / Dior)",
+      "floor": 0,
+      "x": 545.0,
+      "y": 540.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_NC02",
+      "name": "Central Spine (TUMI / NARS)",
+      "floor": 0,
+      "x": 550.0,
+      "y": 580.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_NC03",
+      "name": "Central Spine (Laduree / Frozen Bottle)",
+      "floor": 0,
+      "x": 555.0,
+      "y": 640.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_C00",
+      "name": "Central Spine (Superdry / Wow Momo)",
+      "floor": 0,
+      "x": 555.0,
+      "y": 680.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_C01",
+      "name": "Central Spine (Dyson / Diversion Dine)",
+      "floor": 0,
+      "x": 555.0,
+      "y": 720.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_C02",
+      "name": "Central Spine (LEGO / Mala Akbari)",
+      "floor": 0,
+      "x": 555.0,
+      "y": 760.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_C03",
+      "name": "Central Spine (Marks & Spencer / Pantaloons / Mango)",
+      "floor": 0,
+      "x": 560.0,
+      "y": 810.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_ATRIUM",
+      "name": "Central Grand Atrium",
+      "floor": 0,
+      "x": 580.0,
+      "y": 880.0,
+      "type": "junction",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_ATRIUM_W",
+      "name": "Atrium West Crossing",
+      "floor": 0,
+      "x": 520.0,
+      "y": 880.0,
+      "type": "junction",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_ATRIUM_E",
+      "name": "Atrium East Crossing",
+      "floor": 0,
+      "x": 650.0,
+      "y": 880.0,
+      "type": "junction",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_SW01",
+      "name": "West Promenade (UNIQLO / Starbucks)",
+      "floor": 0,
+      "x": 520.0,
+      "y": 920.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_SW02",
+      "name": "West Promenade (Bateel)",
+      "floor": 0,
+      "x": 520.0,
+      "y": 990.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_SW03",
+      "name": "West Promenade (Lenscrafters)",
+      "floor": 0,
+      "x": 520.0,
+      "y": 1030.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_SW04",
+      "name": "West Promenade (Sunglass Hut)",
+      "floor": 0,
+      "x": 520.0,
+      "y": 1060.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_SW05",
+      "name": "West Promenade (Lladro Spain)",
+      "floor": 0,
+      "x": 520.0,
+      "y": 1100.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_SW06",
+      "name": "West Promenade (Polo Ralph Lauren)",
+      "floor": 0,
+      "x": 520.0,
+      "y": 1165.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_SW07",
+      "name": "West Promenade (Swarovski)",
+      "floor": 0,
+      "x": 520.0,
+      "y": 1210.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_SW08",
+      "name": "West Promenade (L'Occitane)",
+      "floor": 0,
+      "x": 520.0,
+      "y": 1240.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_SW09",
+      "name": "West Promenade (MAC)",
+      "floor": 0,
+      "x": 520.0,
+      "y": 1280.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_SW10",
+      "name": "West Promenade (Estee Lauder)",
+      "floor": 0,
+      "x": 520.0,
+      "y": 1315.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_SW_EXIT",
+      "name": "West Plaza Exit Corridor",
+      "floor": 0,
+      "x": 530.0,
+      "y": 1380.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_SE01",
+      "name": "East Promenade (Mark Forex)",
+      "floor": 0,
+      "x": 650.0,
+      "y": 900.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_SE02",
+      "name": "East Promenade (Cover Story)",
+      "floor": 0,
+      "x": 650.0,
+      "y": 930.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_SE03",
+      "name": "East Promenade (Nespresso)",
+      "floor": 0,
+      "x": 650.0,
+      "y": 970.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_SE04",
+      "name": "East Promenade (Trends)",
+      "floor": 0,
+      "x": 650.0,
+      "y": 1010.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_SE05",
+      "name": "East Promenade (Victoria's Secret)",
+      "floor": 0,
+      "x": 640.0,
+      "y": 1060.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_SE06",
+      "name": "East Promenade (Tira / H&M)",
+      "floor": 0,
+      "x": 650.0,
+      "y": 1110.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_SE07",
+      "name": "East Promenade (Gelato Vinto)",
+      "floor": 0,
+      "x": 650.0,
+      "y": 1195.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_SE08",
+      "name": "East Promenade (Oma Living)",
+      "floor": 0,
+      "x": 650.0,
+      "y": 1240.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_SE09",
+      "name": "East Promenade (Bath & Body Works)",
+      "floor": 0,
+      "x": 645.0,
+      "y": 1290.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_CORR_SE_EXIT",
+      "name": "East Plaza Exit Corridor",
+      "floor": 0,
+      "x": 630.0,
+      "y": 1380.0,
+      "type": "corridor",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_GATE_3",
+      "name": "Main Entry / Exit (Gate 1)",
+      "floor": 0,
+      "x": 580.0,
+      "y": 1430.0,
+      "type": "mall_entrance",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_GATE_2",
+      "name": "Gate 2 (East Promenade Entry)",
+      "floor": 0,
+      "x": 745.0,
+      "y": 930.0,
+      "type": "mall_entrance",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_GATE_4",
+      "name": "Gate 4 (West Plaza Entry)",
+      "floor": 0,
+      "x": 370.0,
+      "y": 670.0,
+      "type": "mall_entrance",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "G_GATE_PARKING",
+      "name": "Parking Lobby Entry",
+      "floor": 0,
+      "x": 580.0,
+      "y": 850.0,
+      "type": "mall_entrance",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "LIFT_CENTRAL_G",
+      "name": "Central Atrium Elevator (G)",
+      "floor": 0,
+      "x": 580.0,
+      "y": 880.0,
+      "type": "lift",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ESC_CENTRAL_G",
+      "name": "Central Atrium Escalator (G)",
+      "floor": 0,
+      "x": 560.0,
+      "y": 880.0,
+      "type": "escalator",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "STAIRS_CENTRAL_G",
+      "name": "Central Atrium Stairs (G)",
+      "floor": 0,
+      "x": 540.0,
+      "y": 880.0,
+      "type": "staircase",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "LIFT_NORTH_G",
+      "name": "North Glass Elevator (G)",
+      "floor": 0,
+      "x": 540.0,
+      "y": 500.0,
+      "type": "lift",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ESC_NORTH_G",
+      "name": "North Escalator (G)",
+      "floor": 0,
+      "x": 520.0,
+      "y": 500.0,
+      "type": "escalator",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "STAIRS_NORTH_G",
+      "name": "North Staircase (G)",
+      "floor": 0,
+      "x": 500.0,
+      "y": 500.0,
+      "type": "staircase",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "LIFT_SOUTH_G",
+      "name": "South Boulevard Elevator (G)",
+      "floor": 0,
+      "x": 580.0,
+      "y": 1400.0,
+      "type": "lift",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ESC_SOUTH_G",
+      "name": "South Escalator (G)",
+      "floor": 0,
+      "x": 560.0,
+      "y": 1400.0,
+      "type": "escalator",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "STAIRS_SOUTH_G",
+      "name": "South Staircase (G)",
+      "floor": 0,
+      "x": 540.0,
+      "y": 1400.0,
+      "type": "staircase",
+      "poi_id": null,
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_001",
+      "name": "Paul's Bakery (Entrance)",
+      "floor": 0,
+      "x": 430.0,
+      "y": 180.0,
+      "type": "shop_entrance",
+      "poi_id": "G_001",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_002",
+      "name": "Onitsuka Tiger (Entrance)",
+      "floor": 0,
+      "x": 470.0,
+      "y": 270.0,
+      "type": "shop_entrance",
+      "poi_id": "G_002",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_003",
+      "name": "Diesel (Entrance)",
+      "floor": 0,
+      "x": 500.0,
+      "y": 310.0,
+      "type": "shop_entrance",
+      "poi_id": "G_003",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_004",
+      "name": "Lacoste (Entrance)",
+      "floor": 0,
+      "x": 520.0,
+      "y": 360.0,
+      "type": "shop_entrance",
+      "poi_id": "G_004",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_005",
+      "name": "ZARA (Entrance)",
+      "floor": 0,
+      "x": 450.0,
+      "y": 430.0,
+      "type": "shop_entrance",
+      "poi_id": "G_005",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_006",
+      "name": "Isharya (Entrance)",
+      "floor": 0,
+      "x": 510.0,
+      "y": 281.0,
+      "type": "shop_entrance",
+      "poi_id": "G_006",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_007",
+      "name": "Hackett London (Entrance)",
+      "floor": 0,
+      "x": 520.0,
+      "y": 324.0,
+      "type": "shop_entrance",
+      "poi_id": "G_007",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_008",
+      "name": "Limited Edt (Entrance)",
+      "floor": 0,
+      "x": 530.0,
+      "y": 340.0,
+      "type": "shop_entrance",
+      "poi_id": "G_008",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_009",
+      "name": "Oud Arabia (Entrance)",
+      "floor": 0,
+      "x": 530.0,
+      "y": 350.0,
+      "type": "shop_entrance",
+      "poi_id": "G_009",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_010",
+      "name": "Levi's (Entrance)",
+      "floor": 0,
+      "x": 530.0,
+      "y": 370.0,
+      "type": "shop_entrance",
+      "poi_id": "G_010",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_011",
+      "name": "Under Armour (Entrance)",
+      "floor": 0,
+      "x": 540.0,
+      "y": 359.0,
+      "type": "shop_entrance",
+      "poi_id": "G_011",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_012",
+      "name": "Forest Essentials (Entrance)",
+      "floor": 0,
+      "x": 540.0,
+      "y": 380.0,
+      "type": "shop_entrance",
+      "poi_id": "G_012",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_013",
+      "name": "NICOBAR (Entrance)",
+      "floor": 0,
+      "x": 550.0,
+      "y": 391.0,
+      "type": "shop_entrance",
+      "poi_id": "G_013",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_014",
+      "name": "NARS (Entrance)",
+      "floor": 0,
+      "x": 580.0,
+      "y": 583.0,
+      "type": "shop_entrance",
+      "poi_id": "G_014",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_015",
+      "name": "Dior (Entrance)",
+      "floor": 0,
+      "x": 580.0,
+      "y": 540.0,
+      "type": "shop_entrance",
+      "poi_id": "G_015",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_016",
+      "name": "The Collective (Entrance)",
+      "floor": 0,
+      "x": 570.0,
+      "y": 510.0,
+      "type": "shop_entrance",
+      "poi_id": "G_016",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_017",
+      "name": "Gelato (Entrance)",
+      "floor": 0,
+      "x": 640.0,
+      "y": 1194.0,
+      "type": "shop_entrance",
+      "poi_id": "G_017",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_018",
+      "name": "Gel (Entrance)",
+      "floor": 0,
+      "x": 640.0,
+      "y": 1194.0,
+      "type": "shop_entrance",
+      "poi_id": "G_018",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_019",
+      "name": "Vinto (Entrance)",
+      "floor": 0,
+      "x": 640.0,
+      "y": 1194.0,
+      "type": "shop_entrance",
+      "poi_id": "G_019",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_020",
+      "name": "BODY (Entrance)",
+      "floor": 0,
+      "x": 640.0,
+      "y": 1286.0,
+      "type": "shop_entrance",
+      "poi_id": "G_020",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_021",
+      "name": "Bath & Body Works (Entrance)",
+      "floor": 0,
+      "x": 640.0,
+      "y": 1286.0,
+      "type": "shop_entrance",
+      "poi_id": "G_021",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_022",
+      "name": "Victoria's Secret (Entrance)",
+      "floor": 0,
+      "x": 630.0,
+      "y": 1060.0,
+      "type": "shop_entrance",
+      "poi_id": "G_022",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_023",
+      "name": "Nykaa (Entrance)",
+      "floor": 0,
+      "x": 635.0,
+      "y": 1080.0,
+      "type": "shop_entrance",
+      "poi_id": "G_023",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_024",
+      "name": "L'Occitane en Provence (Entrance)",
+      "floor": 0,
+      "x": 500.0,
+      "y": 1239.0,
+      "type": "shop_entrance",
+      "poi_id": "G_024",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_025",
+      "name": "Clinique (Entrance)",
+      "floor": 0,
+      "x": 505.0,
+      "y": 1250.0,
+      "type": "shop_entrance",
+      "poi_id": "G_025",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_026",
+      "name": "Estee Lauder (Entrance)",
+      "floor": 0,
+      "x": 505.0,
+      "y": 1313.0,
+      "type": "shop_entrance",
+      "poi_id": "G_026",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_027",
+      "name": "Hugo Boss (Entrance)",
+      "floor": 0,
+      "x": 570.0,
+      "y": 460.0,
+      "type": "shop_entrance",
+      "poi_id": "G_027",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_028",
+      "name": "Froze (Entrance)",
+      "floor": 0,
+      "x": 600.0,
+      "y": 638.0,
+      "type": "shop_entrance",
+      "poi_id": "G_028",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_029",
+      "name": "Shantnu Nikhil (Entrance)",
+      "floor": 0,
+      "x": 544.0,
+      "y": 530.0,
+      "type": "shop_entrance",
+      "poi_id": "G_029",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_030",
+      "name": "Laduree (Entrance)",
+      "floor": 0,
+      "x": 565.0,
+      "y": 641.0,
+      "type": "shop_entrance",
+      "poi_id": "G_030",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_031",
+      "name": "Tommy Hilfiger (Entrance)",
+      "floor": 0,
+      "x": 565.0,
+      "y": 610.0,
+      "type": "shop_entrance",
+      "poi_id": "G_031",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_032",
+      "name": "TUMI (Entrance)",
+      "floor": 0,
+      "x": 555.0,
+      "y": 575.0,
+      "type": "shop_entrance",
+      "poi_id": "G_032",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_033",
+      "name": "Ralph (Entrance)",
+      "floor": 0,
+      "x": 500.0,
+      "y": 1165.0,
+      "type": "shop_entrance",
+      "poi_id": "G_033",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_034",
+      "name": "Polo Ralph Lauren (Entrance)",
+      "floor": 0,
+      "x": 500.0,
+      "y": 1165.0,
+      "type": "shop_entrance",
+      "poi_id": "G_034",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_035",
+      "name": "Brooks Brothers (Entrance)",
+      "floor": 0,
+      "x": 580.0,
+      "y": 660.0,
+      "type": "shop_entrance",
+      "poi_id": "G_035",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_036",
+      "name": "Frozen Bottle (Entrance)",
+      "floor": 0,
+      "x": 600.0,
+      "y": 638.0,
+      "type": "shop_entrance",
+      "poi_id": "G_036",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_037",
+      "name": "Lenscrafters (Entrance)",
+      "floor": 0,
+      "x": 495.0,
+      "y": 1027.0,
+      "type": "shop_entrance",
+      "poi_id": "G_037",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_038",
+      "name": "Superdry (Entrance)",
+      "floor": 0,
+      "x": 580.0,
+      "y": 670.0,
+      "type": "shop_entrance",
+      "poi_id": "G_038",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_039",
+      "name": "GAS (Entrance)",
+      "floor": 0,
+      "x": 580.0,
+      "y": 690.0,
+      "type": "shop_entrance",
+      "poi_id": "G_039",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_040",
+      "name": "Birker (Entrance)",
+      "floor": 0,
+      "x": 580.0,
+      "y": 700.0,
+      "type": "shop_entrance",
+      "poi_id": "G_040",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_041",
+      "name": "Ben's Cookies (Entrance)",
+      "floor": 0,
+      "x": 580.0,
+      "y": 700.0,
+      "type": "shop_entrance",
+      "poi_id": "G_041",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_042",
+      "name": "Spain (Entrance)",
+      "floor": 0,
+      "x": 495.0,
+      "y": 1104.0,
+      "type": "shop_entrance",
+      "poi_id": "G_042",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_043",
+      "name": "Sunglass Hut (Entrance)",
+      "floor": 0,
+      "x": 495.0,
+      "y": 1060.0,
+      "type": "shop_entrance",
+      "poi_id": "G_043",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_044",
+      "name": "Kama Ayurveda (Entrance)",
+      "floor": 0,
+      "x": 510.0,
+      "y": 1040.0,
+      "type": "shop_entrance",
+      "poi_id": "G_044",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_045",
+      "name": "Birkenstock (Entrance)",
+      "floor": 0,
+      "x": 510.0,
+      "y": 1050.0,
+      "type": "shop_entrance",
+      "poi_id": "G_045",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_046",
+      "name": "Bateel (Entrance)",
+      "floor": 0,
+      "x": 495.0,
+      "y": 991.0,
+      "type": "shop_entrance",
+      "poi_id": "G_046",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_047",
+      "name": "Lladro (Entrance)",
+      "floor": 0,
+      "x": 495.0,
+      "y": 1104.0,
+      "type": "shop_entrance",
+      "poi_id": "G_047",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_048",
+      "name": "La Sante (Entrance)",
+      "floor": 0,
+      "x": 510.0,
+      "y": 1080.0,
+      "type": "shop_entrance",
+      "poi_id": "G_048",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_049",
+      "name": "ALCHEMIST (Entrance)",
+      "floor": 0,
+      "x": 510.0,
+      "y": 1090.0,
+      "type": "shop_entrance",
+      "poi_id": "G_049",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_050",
+      "name": "Forever New (Entrance)",
+      "floor": 0,
+      "x": 670.0,
+      "y": 950.0,
+      "type": "shop_entrance",
+      "poi_id": "G_050",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_051",
+      "name": "Nespresso (Entrance)",
+      "floor": 0,
+      "x": 670.0,
+      "y": 969.0,
+      "type": "shop_entrance",
+      "poi_id": "G_051",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_052",
+      "name": "Wow! Momo (Entrance)",
+      "floor": 0,
+      "x": 600.0,
+      "y": 681.0,
+      "type": "shop_entrance",
+      "poi_id": "G_052",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_053",
+      "name": "Dyson (Entrance)",
+      "floor": 0,
+      "x": 520.0,
+      "y": 719.0,
+      "type": "shop_entrance",
+      "poi_id": "G_053",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_054",
+      "name": "Diversion (Entrance)",
+      "floor": 0,
+      "x": 600.0,
+      "y": 714.0,
+      "type": "shop_entrance",
+      "poi_id": "G_054",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_055",
+      "name": "Dine (Entrance)",
+      "floor": 0,
+      "x": 600.0,
+      "y": 714.0,
+      "type": "shop_entrance",
+      "poi_id": "G_055",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_056",
+      "name": "Cover Story (Entrance)",
+      "floor": 0,
+      "x": 670.0,
+      "y": 924.0,
+      "type": "shop_entrance",
+      "poi_id": "G_056",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_057",
+      "name": "Mala Akbari (Entrance)",
+      "floor": 0,
+      "x": 600.0,
+      "y": 754.0,
+      "type": "shop_entrance",
+      "poi_id": "G_057",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_058",
+      "name": "Mango Man (Entrance)",
+      "floor": 0,
+      "x": 520.0,
+      "y": 826.0,
+      "type": "shop_entrance",
+      "poi_id": "G_058",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_059",
+      "name": "LEGO (Entrance)",
+      "floor": 0,
+      "x": 520.0,
+      "y": 764.0,
+      "type": "shop_entrance",
+      "poi_id": "G_059",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_060",
+      "name": "MARK (Entrance)",
+      "floor": 0,
+      "x": 670.0,
+      "y": 873.0,
+      "type": "shop_entrance",
+      "poi_id": "G_060",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_061",
+      "name": "FOREX (Entrance)",
+      "floor": 0,
+      "x": 670.0,
+      "y": 873.0,
+      "type": "shop_entrance",
+      "poi_id": "G_061",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_062",
+      "name": "Money (Entrance)",
+      "floor": 0,
+      "x": 670.0,
+      "y": 873.0,
+      "type": "shop_entrance",
+      "poi_id": "G_062",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_063",
+      "name": "Armani Exchange (Entrance)",
+      "floor": 0,
+      "x": 580.0,
+      "y": 496.0,
+      "type": "shop_entrance",
+      "poi_id": "G_063",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_064",
+      "name": "Tira (Entrance)",
+      "floor": 0,
+      "x": 680.0,
+      "y": 1110.0,
+      "type": "shop_entrance",
+      "poi_id": "G_064",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_065",
+      "name": "(Oma (Entrance)",
+      "floor": 0,
+      "x": 670.0,
+      "y": 1237.0,
+      "type": "shop_entrance",
+      "poi_id": "G_065",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_066",
+      "name": "Living (Entrance)",
+      "floor": 0,
+      "x": 670.0,
+      "y": 1237.0,
+      "type": "shop_entrance",
+      "poi_id": "G_066",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_067",
+      "name": "Pantaloons (Entrance)",
+      "floor": 0,
+      "x": 610.0,
+      "y": 810.0,
+      "type": "shop_entrance",
+      "poi_id": "G_067",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_068",
+      "name": "Livin (Entrance)",
+      "floor": 0,
+      "x": 670.0,
+      "y": 1237.0,
+      "type": "shop_entrance",
+      "poi_id": "G_068",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_069",
+      "name": "Trends (Entrance)",
+      "floor": 0,
+      "x": 670.0,
+      "y": 1011.0,
+      "type": "shop_entrance",
+      "poi_id": "G_069",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_070",
+      "name": "Talk (Entrance)",
+      "floor": 0,
+      "x": 490.0,
+      "y": 910.0,
+      "type": "shop_entrance",
+      "poi_id": "G_070",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_071",
+      "name": "Bread (Entrance)",
+      "floor": 0,
+      "x": 490.0,
+      "y": 910.0,
+      "type": "shop_entrance",
+      "poi_id": "G_071",
+      "entrance_status": "verified",
+      "category": "General"
+    },
+    {
+      "id": "ENT_G_072",
+      "name": "UNIQLO (Entrance)",
+      "floor": 0,
+      "x": 500.0,
+      "y": 893.0,
+      "type": "shop_entrance",
+      "poi_id": "G_072",
+      "entrance_status": "verified",
+      "category": "General"
+    }
+  ],
+  "edges": [
+    {
+      "from": "F1_CORR_N01",
+      "to": "F1_CORR_N02",
+      "distance": 23.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_N02",
+      "to": "F1_CORR_N_ATRIUM",
+      "distance": 31.3,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_N_ATRIUM",
+      "to": "F1_CORR_N03",
+      "distance": 7.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_N03",
+      "to": "F1_CORR_N04",
+      "distance": 10.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_N04",
+      "to": "F1_CORR_N05",
+      "distance": 17.6,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_N05",
+      "to": "F1_CORR_N06",
+      "distance": 11.9,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_N06",
+      "to": "F1_CORR_C01",
+      "distance": 32.4,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_C01",
+      "to": "F1_CORR_C02",
+      "distance": 45.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_C02",
+      "to": "F1_CORR_C03",
+      "distance": 20.4,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_C03",
+      "to": "F1_CORR_C04",
+      "distance": 10.9,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_C04",
+      "to": "F1_CORR_ATRIUM",
+      "distance": 17.6,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_ATRIUM",
+      "to": "F1_CORR_C05",
+      "distance": 4.9,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_C05",
+      "to": "F1_CORR_C06",
+      "distance": 14.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_C06",
+      "to": "F1_CORR_C07",
+      "distance": 7.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_C07",
+      "to": "F1_CORR_C08",
+      "distance": 9.1,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_C08",
+      "to": "F1_CORR_C09",
+      "distance": 11.9,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_C09",
+      "to": "F1_CORR_C10",
+      "distance": 14.7,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_C10",
+      "to": "F1_CORR_S01",
+      "distance": 13.8,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_S01",
+      "to": "F1_CORR_S02",
+      "distance": 14.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_S02",
+      "to": "F1_CORR_S03",
+      "distance": 7.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_S03",
+      "to": "F1_CORR_S04",
+      "distance": 14.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_S04",
+      "to": "F1_CORR_S05",
+      "distance": 17.8,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_S05",
+      "to": "F1_CORR_S06",
+      "distance": 14.6,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_S06",
+      "to": "F1_CORR_SOUTH_ATRIUM",
+      "distance": 24.7,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_SOUTH_ATRIUM",
+      "to": "F1_CORR_S07",
+      "distance": 3.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_S07",
+      "to": "F1_CORR_S08",
+      "distance": 10.9,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_S08",
+      "to": "F1_CORR_S09",
+      "distance": 15.7,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_S09",
+      "to": "F1_CORR_S10",
+      "distance": 41.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_N_ATRIUM",
+      "to": "LIFT_NORTH_F1",
+      "distance": 4.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_N_ATRIUM",
+      "to": "ESC_NORTH_F1",
+      "distance": 4.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_N_ATRIUM",
+      "to": "STAIRS_NORTH_F1",
+      "distance": 4.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_ATRIUM",
+      "to": "LIFT_CENTRAL_F1",
+      "distance": 4.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_ATRIUM",
+      "to": "ESC_CENTRAL_F1",
+      "distance": 4.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_ATRIUM",
+      "to": "STAIRS_CENTRAL_F1",
+      "distance": 4.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_SOUTH_ATRIUM",
+      "to": "LIFT_SOUTH_F1",
+      "distance": 4.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_SOUTH_ATRIUM",
+      "to": "ESC_SOUTH_F1",
+      "distance": 4.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F1_CORR_SOUTH_ATRIUM",
+      "to": "STAIRS_SOUTH_F1",
+      "distance": 4.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_001",
+      "to": "F1_CORR_S06",
+      "distance": 11.2,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_002",
+      "to": "F1_CORR_S06",
+      "distance": 9.4,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_003",
+      "to": "F1_CORR_S09",
+      "distance": 8.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_004",
+      "to": "F1_CORR_S10",
+      "distance": 7.6,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_005",
+      "to": "F1_CORR_S09",
+      "distance": 9.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_006",
+      "to": "F1_CORR_S08",
+      "distance": 10.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_007",
+      "to": "F1_CORR_S05",
+      "distance": 11.7,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_008",
+      "to": "F1_CORR_S06",
+      "distance": 13.1,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_009",
+      "to": "F1_CORR_S03",
+      "distance": 12.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_010",
+      "to": "F1_CORR_S02",
+      "distance": 6.2,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_011",
+      "to": "F1_CORR_S03",
+      "distance": 2.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_012",
+      "to": "F1_CORR_S03",
+      "distance": 12.7,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_013",
+      "to": "F1_CORR_S01",
+      "distance": 12.4,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_014",
+      "to": "F1_CORR_S01",
+      "distance": 11.4,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_015",
+      "to": "F1_CORR_S01",
+      "distance": 12.4,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_016",
+      "to": "F1_CORR_C10",
+      "distance": 6.8,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_017",
+      "to": "F1_CORR_C08",
+      "distance": 7.6,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_018",
+      "to": "F1_CORR_C09",
+      "distance": 7.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_019",
+      "to": "F1_CORR_C06",
+      "distance": 9.6,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_020",
+      "to": "F1_CORR_C07",
+      "distance": 2.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_021",
+      "to": "F1_CORR_C08",
+      "distance": 2.8,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_022",
+      "to": "F1_CORR_C06",
+      "distance": 10.8,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_023",
+      "to": "F1_CORR_C07",
+      "distance": 11.1,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_024",
+      "to": "F1_CORR_C08",
+      "distance": 11.6,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_025",
+      "to": "F1_CORR_C09",
+      "distance": 12.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_026",
+      "to": "F1_CORR_C05",
+      "distance": 10.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_027",
+      "to": "F1_CORR_C05",
+      "distance": 12.7,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_028",
+      "to": "F1_CORR_C05",
+      "distance": 12.3,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_029",
+      "to": "F1_CORR_C04",
+      "distance": 13.9,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_030",
+      "to": "F1_CORR_C03",
+      "distance": 7.1,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_031",
+      "to": "F1_CORR_C04",
+      "distance": 9.2,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_032",
+      "to": "F1_CORR_ATRIUM",
+      "distance": 10.1,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_033",
+      "to": "F1_CORR_C02",
+      "distance": 4.7,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_034",
+      "to": "F1_CORR_C03",
+      "distance": 6.6,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_035",
+      "to": "F1_CORR_C02",
+      "distance": 3.2,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_036",
+      "to": "F1_CORR_C02",
+      "distance": 3.6,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_037",
+      "to": "F1_CORR_C02",
+      "distance": 4.2,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_038",
+      "to": "F1_CORR_S06",
+      "distance": 12.8,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_039",
+      "to": "F1_CORR_C01",
+      "distance": 5.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_040",
+      "to": "F1_CORR_C01",
+      "distance": 5.1,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_041",
+      "to": "F1_CORR_C01",
+      "distance": 8.2,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_042",
+      "to": "F1_CORR_N05",
+      "distance": 7.7,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_043",
+      "to": "F1_CORR_N05",
+      "distance": 6.7,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_044",
+      "to": "F1_CORR_N06",
+      "distance": 6.7,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_045",
+      "to": "F1_CORR_N06",
+      "distance": 9.8,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_046",
+      "to": "F1_CORR_N_ATRIUM",
+      "distance": 9.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_047",
+      "to": "F1_CORR_N_ATRIUM",
+      "distance": 7.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_048",
+      "to": "F1_CORR_N_ATRIUM",
+      "distance": 7.1,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_049",
+      "to": "F1_CORR_N_ATRIUM",
+      "distance": 3.4,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_050",
+      "to": "F1_CORR_N_ATRIUM",
+      "distance": 3.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_051",
+      "to": "F1_CORR_N03",
+      "distance": 2.9,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_052",
+      "to": "F1_CORR_N04",
+      "distance": 2.9,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_053",
+      "to": "F1_CORR_N02",
+      "distance": 5.8,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_054",
+      "to": "F1_CORR_N_ATRIUM",
+      "distance": 7.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_055",
+      "to": "F1_CORR_N01",
+      "distance": 3.6,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_056",
+      "to": "F1_CORR_N02",
+      "distance": 5.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_057",
+      "to": "F1_CORR_N02",
+      "distance": 8.9,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_058",
+      "to": "F1_CORR_N01",
+      "distance": 7.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F1_059",
+      "to": "F1_CORR_S06",
+      "distance": 11.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_N01",
+      "to": "F2_CORR_N02",
+      "distance": 22.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_N02",
+      "to": "F2_CORR_NORTH_ATRIUM",
+      "distance": 18.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_NORTH_ATRIUM",
+      "to": "F2_CORR_N03",
+      "distance": 13.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_N03",
+      "to": "F2_CORR_N04",
+      "distance": 20.1,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_N04",
+      "to": "F2_CORR_N05",
+      "distance": 22.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_N05",
+      "to": "F2_CORR_C01",
+      "distance": 42.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_C01",
+      "to": "F2_CORR_C02",
+      "distance": 31.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_C02",
+      "to": "F2_CORR_C03",
+      "distance": 18.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_C03",
+      "to": "F2_CORR_CENTRAL_ATRIUM",
+      "distance": 18.6,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_CENTRAL_ATRIUM",
+      "to": "F2_CORR_C04",
+      "distance": 22.9,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_C04",
+      "to": "F2_CORR_C05",
+      "distance": 31.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_C05",
+      "to": "F2_CORR_S01",
+      "distance": 27.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_S01",
+      "to": "F2_CORR_S02",
+      "distance": 31.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_S02",
+      "to": "F2_CORR_SOUTH_ATRIUM",
+      "distance": 31.8,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_SOUTH_ATRIUM",
+      "to": "F2_CORR_S03",
+      "distance": 18.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_S03",
+      "to": "F2_CORR_S04",
+      "distance": 31.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_NORTH_ATRIUM",
+      "to": "LIFT_NORTH_F2",
+      "distance": 4.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_NORTH_ATRIUM",
+      "to": "ESC_NORTH_F2",
+      "distance": 4.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_NORTH_ATRIUM",
+      "to": "STAIRS_NORTH_F2",
+      "distance": 4.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_CENTRAL_ATRIUM",
+      "to": "LIFT_CENTRAL_F2",
+      "distance": 4.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_CENTRAL_ATRIUM",
+      "to": "ESC_CENTRAL_F2",
+      "distance": 4.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_CENTRAL_ATRIUM",
+      "to": "STAIRS_CENTRAL_F2",
+      "distance": 4.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_SOUTH_ATRIUM",
+      "to": "LIFT_SOUTH_F2",
+      "distance": 4.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_SOUTH_ATRIUM",
+      "to": "ESC_SOUTH_F2",
+      "distance": 4.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "F2_CORR_SOUTH_ATRIUM",
+      "to": "STAIRS_SOUTH_F2",
+      "distance": 4.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_ACCESS",
+      "to": "F2_CORR_C02",
+      "distance": 41.1,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_ACCESSORIZE",
+      "to": "F2_CORR_C01",
+      "distance": 6.1,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_ADIDAS",
+      "to": "F2_CORR_C05",
+      "distance": 41.3,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_ADIDASKIDS",
+      "to": "F2_CORR_C05",
+      "distance": 7.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_ANCESTRY",
+      "to": "F2_CORR_C05",
+      "distance": 6.4,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_ANOKHI",
+      "to": "F2_CORR_N01",
+      "distance": 28.6,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_ATUN",
+      "to": "F2_CORR_S01",
+      "distance": 28.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_AURELIA",
+      "to": "F2_CORR_S01",
+      "distance": 9.6,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_BARISTA",
+      "to": "F2_CORR_N01",
+      "distance": 14.9,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_BIBA",
+      "to": "F2_CORR_SOUTH_ATRIUM",
+      "distance": 9.6,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_BLUESTONE",
+      "to": "F2_CORR_C05",
+      "distance": 23.2,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_CHICCO",
+      "to": "F2_CORR_C01",
+      "distance": 11.7,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_CHICE",
+      "to": "F2_CORR_C01",
+      "distance": 41.8,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_CROMA",
+      "to": "F2_CORR_C02",
+      "distance": 28.6,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_DELSE",
+      "to": "F2_CORR_S04",
+      "distance": 26.8,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_DELSEY",
+      "to": "F2_CORR_S04",
+      "distance": 2.7,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_ECCOSHOES",
+      "to": "F2_CORR_NORTH_ATRIUM",
+      "distance": 19.4,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_FABINDIA",
+      "to": "F2_CORR_S04",
+      "distance": 25.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_FORWOMEN",
+      "to": "F2_CORR_N04",
+      "distance": 3.1,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_GADGE",
+      "to": "F2_CORR_C02",
+      "distance": 41.2,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_GADGET",
+      "to": "F2_CORR_SOUTH_ATRIUM",
+      "distance": 38.7,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_GADGETZONE",
+      "to": "F2_CORR_CENTRAL_ATRIUM",
+      "distance": 31.2,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_GEETANJALISALON",
+      "to": "F2_CORR_N02",
+      "distance": 4.9,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_GIPSYWOMAN",
+      "to": "F2_CORR_CENTRAL_ATRIUM",
+      "distance": 2.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_GKBOPTICALS",
+      "to": "F2_CORR_N04",
+      "distance": 15.7,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_GLOBALDESI",
+      "to": "F2_CORR_N04",
+      "distance": 6.9,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_GOCOLORS",
+      "to": "F2_CORR_S01",
+      "distance": 22.8,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_HEUSENWOMEN",
+      "to": "F2_CORR_N05",
+      "distance": 29.2,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_HOMESTORIES",
+      "to": "F2_CORR_N01",
+      "distance": 31.7,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_HUSHPUPPIES",
+      "to": "F2_CORR_N05",
+      "distance": 4.9,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_ICONICKIDS",
+      "to": "F2_CORR_S01",
+      "distance": 6.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_ILEDIT",
+      "to": "F2_CORR_C03",
+      "distance": 38.8,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_JALISALON",
+      "to": "F2_CORR_S02",
+      "distance": 29.2,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_JAYPORE",
+      "to": "F2_CORR_N03",
+      "distance": 6.7,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_KATE",
+      "to": "F2_CORR_S03",
+      "distance": 6.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_KATEOSCAR",
+      "to": "F2_CORR_N05",
+      "distance": 8.2,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_KIDS",
+      "to": "F2_CORR_S01",
+      "distance": 30.3,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_KONFO",
+      "to": "F2_CORR_N05",
+      "distance": 8.3,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_KUMAR",
+      "to": "F2_CORR_S02",
+      "distance": 21.9,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_LENOVO",
+      "to": "F2_CORR_N01",
+      "distance": 34.3,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_LENSKART",
+      "to": "F2_CORR_N05",
+      "distance": 8.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_LIDASKIDS",
+      "to": "F2_CORR_N05",
+      "distance": 29.3,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_LOOKSUNISEXSALO",
+      "to": "F2_CORR_C05",
+      "distance": 35.4,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_LOOKSUNISEXSALON",
+      "to": "F2_CORR_CENTRAL_ATRIUM",
+      "distance": 27.9,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_LOUNGE",
+      "to": "F2_CORR_S03",
+      "distance": 31.1,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_MEENA",
+      "to": "F2_CORR_C01",
+      "distance": 39.7,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_MEENABAZAAR",
+      "to": "F2_CORR_N03",
+      "distance": 34.4,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_MEENABZ",
+      "to": "F2_CORR_SOUTH_ATRIUM",
+      "distance": 39.3,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_MOHANLAL",
+      "to": "F2_CORR_C05",
+      "distance": 35.6,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_MOHANLALSONS",
+      "to": "F2_CORR_N01",
+      "distance": 5.2,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_MOTHERCAR",
+      "to": "F2_CORR_CENTRAL_ATRIUM",
+      "distance": 38.6,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_MOTHERCARE",
+      "to": "F2_CORR_C02",
+      "distance": 6.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_NAILASHES",
+      "to": "F2_CORR_N04",
+      "distance": 6.1,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_NAILEDIT",
+      "to": "F2_CORR_C04",
+      "distance": 6.6,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_NAILEDITNA",
+      "to": "F2_CORR_N03",
+      "distance": 34.1,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_NEFRIDAY",
+      "to": "F2_CORR_S01",
+      "distance": 29.2,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_NOITRE",
+      "to": "F2_CORR_N05",
+      "distance": 14.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_ONEFRIDAY",
+      "to": "F2_CORR_N05",
+      "distance": 16.9,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_OPTICALS",
+      "to": "F2_CORR_N01",
+      "distance": 21.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_OSCAR",
+      "to": "F2_CORR_C01",
+      "distance": 4.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_PAIHIAVAREVSV",
+      "to": "F2_CORR_N01",
+      "distance": 30.9,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_PANN",
+      "to": "F2_CORR_CENTRAL_ATRIUM",
+      "distance": 40.6,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_PANNA",
+      "to": "F2_CORR_S04",
+      "distance": 40.3,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_PANNASAREES",
+      "to": "F2_CORR_C02",
+      "distance": 12.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_PANR",
+      "to": "F2_CORR_N01",
+      "distance": 40.8,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_PIES",
+      "to": "F2_CORR_N05",
+      "distance": 37.3,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_PTICALS",
+      "to": "F2_CORR_C03",
+      "distance": 37.9,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_RELIANCE",
+      "to": "F2_CORR_C01",
+      "distance": 34.4,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_RELIANCEDIGIT",
+      "to": "F2_CORR_N03",
+      "distance": 36.1,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_RELIANCEDIGITAL",
+      "to": "F2_CORR_S02",
+      "distance": 15.9,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_RELIANCEDIGITE",
+      "to": "F2_CORR_C02",
+      "distance": 38.1,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_RELIAR",
+      "to": "F2_CORR_SOUTH_ATRIUM",
+      "distance": 40.1,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_RITUKUMAR",
+      "to": "F2_CORR_N03",
+      "distance": 2.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_SABHYATA",
+      "to": "F2_CORR_S04",
+      "distance": 8.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_SALON",
+      "to": "F2_CORR_C03",
+      "distance": 27.1,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_SAMSONITE",
+      "to": "F2_CORR_N01",
+      "distance": 23.7,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_SAMSUNG",
+      "to": "F2_CORR_N05",
+      "distance": 9.9,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_SAUNDH",
+      "to": "F2_CORR_C03",
+      "distance": 34.1,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_SHOELOUNGE",
+      "to": "F2_CORR_C03",
+      "distance": 13.6,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_SHOES",
+      "to": "F2_CORR_C05",
+      "distance": 30.2,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_SOCH",
+      "to": "F2_CORR_S03",
+      "distance": 12.7,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_SONITE",
+      "to": "F2_CORR_C04",
+      "distance": 30.8,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_SONY",
+      "to": "F2_CORR_N03",
+      "distance": 27.1,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_STITCHSTORIES",
+      "to": "F2_CORR_N01",
+      "distance": 17.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_SUNG",
+      "to": "F2_CORR_N05",
+      "distance": 29.6,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_SUVASA",
+      "to": "F2_CORR_N05",
+      "distance": 29.0,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_SWEETDREAMS",
+      "to": "F2_CORR_N05",
+      "distance": 20.7,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_TOYFACTORY",
+      "to": "F2_CORR_N02",
+      "distance": 20.9,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_VANHEUSENWOMEN",
+      "to": "F2_CORR_NORTH_ATRIUM",
+      "distance": 16.3,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "ENT_F2_ZONE",
+      "to": "F2_CORR_S02",
+      "distance": 27.5,
+      "type": "WALK",
+      "accessible": true
+    },
+    {
+      "from": "LIFT_NORTH_F1",
+      "to": "LIFT_NORTH_F2",
+      "distance": 12.0,
+      "type": "ELEVATOR",
+      "accessible": true
+    },
+    {
+      "from": "LIFT_CENTRAL_F1",
+      "to": "LIFT_CENTRAL_F2",
+      "distance": 12.0,
+      "type": "ELEVATOR",
+      "accessible": true
+    },
+    {
+      "from": "LIFT_SOUTH_F1",
+      "to": "LIFT_SOUTH_F2",
+      "distance": 12.0,
+      "type": "ELEVATOR",
+      "accessible": true
+    },
+    {
+      "from": "ESC_NORTH_F1",
+      "to": "ESC_NORTH_F2",
+      "distance": 14.0,
+      "type": "ESCALATOR",
+      "accessible": false
+    },
+    {
+      "from": "ESC_CENTRAL_F1",
+      "to": "ESC_CENTRAL_F2",
+      "distance": 14.0,
+      "type": "ESCALATOR",
+      "accessible": false
+    },
+    {
+      "from": "ESC_SOUTH_F1",
+      "to": "ESC_SOUTH_F2",
+      "distance": 14.0,
+      "type": "ESCALATOR",
+      "accessible": false
+    },
+    {
+      "from": "STAIRS_NORTH_F1",
+      "to": "STAIRS_NORTH_F2",
+      "distance": 16.0,
+      "type": "STAIRS",
+      "accessible": false
+    },
+    {
+      "from": "STAIRS_CENTRAL_F1",
+      "to": "STAIRS_CENTRAL_F2",
+      "distance": 16.0,
+      "type": "STAIRS",
+      "accessible": false
+    },
+    {
+      "from": "STAIRS_SOUTH_F1",
+      "to": "STAIRS_SOUTH_F2",
+      "distance": 16.0,
+      "type": "STAIRS",
+      "accessible": false
+    },
+    {
+      "from": "G_GATE_1",
+      "to": "G_CORR_N01",
+      "distance": 7.4,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N01",
+      "to": "G_GATE_1",
+      "distance": 7.4,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N01",
+      "to": "G_CORR_N02",
+      "distance": 5.6,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N02",
+      "to": "G_CORR_N01",
+      "distance": 5.6,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N02",
+      "to": "G_CORR_N03",
+      "distance": 6.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N03",
+      "to": "G_CORR_N02",
+      "distance": 6.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N03",
+      "to": "G_CORR_N04",
+      "distance": 5.4,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N04",
+      "to": "G_CORR_N03",
+      "distance": 5.4,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N04",
+      "to": "G_CORR_N05",
+      "distance": 6.3,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N05",
+      "to": "G_CORR_N04",
+      "distance": 6.3,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N05",
+      "to": "G_CORR_N06",
+      "distance": 7.1,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N06",
+      "to": "G_CORR_N05",
+      "distance": 7.1,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N06",
+      "to": "G_CORR_NC01",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_NC01",
+      "to": "G_CORR_N06",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_NC01",
+      "to": "G_CORR_NC02",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_NC02",
+      "to": "G_CORR_NC01",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_NC02",
+      "to": "G_CORR_NC03",
+      "distance": 6.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_NC03",
+      "to": "G_CORR_NC02",
+      "distance": 6.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_NC03",
+      "to": "G_CORR_C00",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_C00",
+      "to": "G_CORR_NC03",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_C00",
+      "to": "G_CORR_C01",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_C01",
+      "to": "G_CORR_C00",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_C01",
+      "to": "G_CORR_C02",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_C02",
+      "to": "G_CORR_C01",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_C02",
+      "to": "G_CORR_C03",
+      "distance": 5.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_C03",
+      "to": "G_CORR_C02",
+      "distance": 5.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_C03",
+      "to": "G_CORR_ATRIUM",
+      "distance": 7.3,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_ATRIUM",
+      "to": "G_CORR_C03",
+      "distance": 7.3,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_ATRIUM_W",
+      "to": "G_CORR_ATRIUM",
+      "distance": 6.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_ATRIUM",
+      "to": "G_CORR_ATRIUM_W",
+      "distance": 6.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_ATRIUM",
+      "to": "G_CORR_ATRIUM_E",
+      "distance": 7.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_ATRIUM_E",
+      "to": "G_CORR_ATRIUM",
+      "distance": 7.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_C03",
+      "to": "G_CORR_ATRIUM_W",
+      "distance": 8.1,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_ATRIUM_W",
+      "to": "G_CORR_C03",
+      "distance": 8.1,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_C03",
+      "to": "G_CORR_ATRIUM_E",
+      "distance": 11.4,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_ATRIUM_E",
+      "to": "G_CORR_C03",
+      "distance": 11.4,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_ATRIUM_W",
+      "to": "G_CORR_SW01",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW01",
+      "to": "G_CORR_ATRIUM_W",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW01",
+      "to": "G_CORR_SW02",
+      "distance": 7.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW02",
+      "to": "G_CORR_SW01",
+      "distance": 7.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW02",
+      "to": "G_CORR_SW03",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW03",
+      "to": "G_CORR_SW02",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW03",
+      "to": "G_CORR_SW04",
+      "distance": 3.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW04",
+      "to": "G_CORR_SW03",
+      "distance": 3.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW04",
+      "to": "G_CORR_SW05",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW05",
+      "to": "G_CORR_SW04",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW05",
+      "to": "G_CORR_SW06",
+      "distance": 6.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW06",
+      "to": "G_CORR_SW05",
+      "distance": 6.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW06",
+      "to": "G_CORR_SW07",
+      "distance": 4.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW07",
+      "to": "G_CORR_SW06",
+      "distance": 4.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW07",
+      "to": "G_CORR_SW08",
+      "distance": 3.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW08",
+      "to": "G_CORR_SW07",
+      "distance": 3.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW08",
+      "to": "G_CORR_SW09",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW09",
+      "to": "G_CORR_SW08",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW09",
+      "to": "G_CORR_SW10",
+      "distance": 3.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW10",
+      "to": "G_CORR_SW09",
+      "distance": 3.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW10",
+      "to": "G_CORR_SW_EXIT",
+      "distance": 6.6,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW_EXIT",
+      "to": "G_CORR_SW10",
+      "distance": 6.6,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW_EXIT",
+      "to": "G_GATE_3",
+      "distance": 7.1,
+      "accessible": true
+    },
+    {
+      "from": "G_GATE_3",
+      "to": "G_CORR_SW_EXIT",
+      "distance": 7.1,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_ATRIUM_E",
+      "to": "G_CORR_SE01",
+      "distance": 2.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE01",
+      "to": "G_CORR_ATRIUM_E",
+      "distance": 2.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE01",
+      "to": "G_CORR_SE02",
+      "distance": 3.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE02",
+      "to": "G_CORR_SE01",
+      "distance": 3.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE02",
+      "to": "G_CORR_SE03",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE03",
+      "to": "G_CORR_SE02",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE03",
+      "to": "G_CORR_SE04",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE04",
+      "to": "G_CORR_SE03",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE04",
+      "to": "G_CORR_SE05",
+      "distance": 5.1,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE05",
+      "to": "G_CORR_SE04",
+      "distance": 5.1,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE05",
+      "to": "G_CORR_SE06",
+      "distance": 5.1,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE06",
+      "to": "G_CORR_SE05",
+      "distance": 5.1,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE06",
+      "to": "G_CORR_SE07",
+      "distance": 8.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE07",
+      "to": "G_CORR_SE06",
+      "distance": 8.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE07",
+      "to": "G_CORR_SE08",
+      "distance": 4.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE08",
+      "to": "G_CORR_SE07",
+      "distance": 4.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE08",
+      "to": "G_CORR_SE09",
+      "distance": 5.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE09",
+      "to": "G_CORR_SE08",
+      "distance": 5.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE09",
+      "to": "G_CORR_SE_EXIT",
+      "distance": 9.1,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE_EXIT",
+      "to": "G_CORR_SE09",
+      "distance": 9.1,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE_EXIT",
+      "to": "G_GATE_3",
+      "distance": 7.1,
+      "accessible": true
+    },
+    {
+      "from": "G_GATE_3",
+      "to": "G_CORR_SE_EXIT",
+      "distance": 7.1,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE02",
+      "to": "G_GATE_2",
+      "distance": 9.5,
+      "accessible": true
+    },
+    {
+      "from": "G_GATE_2",
+      "to": "G_CORR_SE02",
+      "distance": 9.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N05",
+      "to": "G_GATE_4",
+      "distance": 28.8,
+      "accessible": true
+    },
+    {
+      "from": "G_GATE_4",
+      "to": "G_CORR_N05",
+      "distance": 28.8,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_ATRIUM",
+      "to": "G_GATE_PARKING",
+      "distance": 3.0,
+      "accessible": true
+    },
+    {
+      "from": "G_GATE_PARKING",
+      "to": "G_CORR_ATRIUM",
+      "distance": 3.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_ATRIUM",
+      "to": "LIFT_CENTRAL_G",
+      "distance": 0.0,
+      "accessible": true
+    },
+    {
+      "from": "LIFT_CENTRAL_G",
+      "to": "G_CORR_ATRIUM",
+      "distance": 0.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_ATRIUM",
+      "to": "ESC_CENTRAL_G",
+      "distance": 2.0,
+      "accessible": true
+    },
+    {
+      "from": "ESC_CENTRAL_G",
+      "to": "G_CORR_ATRIUM",
+      "distance": 2.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_ATRIUM",
+      "to": "STAIRS_CENTRAL_G",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "STAIRS_CENTRAL_G",
+      "to": "G_CORR_ATRIUM",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N06",
+      "to": "LIFT_NORTH_G",
+      "distance": 0.0,
+      "accessible": true
+    },
+    {
+      "from": "LIFT_NORTH_G",
+      "to": "G_CORR_N06",
+      "distance": 0.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N06",
+      "to": "ESC_NORTH_G",
+      "distance": 2.0,
+      "accessible": true
+    },
+    {
+      "from": "ESC_NORTH_G",
+      "to": "G_CORR_N06",
+      "distance": 2.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N06",
+      "to": "STAIRS_NORTH_G",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "STAIRS_NORTH_G",
+      "to": "G_CORR_N06",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_GATE_3",
+      "to": "LIFT_SOUTH_G",
+      "distance": 3.0,
+      "accessible": true
+    },
+    {
+      "from": "LIFT_SOUTH_G",
+      "to": "G_GATE_3",
+      "distance": 3.0,
+      "accessible": true
+    },
+    {
+      "from": "G_GATE_3",
+      "to": "ESC_SOUTH_G",
+      "distance": 3.6,
+      "accessible": true
+    },
+    {
+      "from": "ESC_SOUTH_G",
+      "to": "G_GATE_3",
+      "distance": 3.6,
+      "accessible": true
+    },
+    {
+      "from": "G_GATE_3",
+      "to": "STAIRS_SOUTH_G",
+      "distance": 5.0,
+      "accessible": true
+    },
+    {
+      "from": "STAIRS_SOUTH_G",
+      "to": "G_GATE_3",
+      "distance": 5.0,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_001",
+      "to": "G_CORR_N01",
+      "distance": 3.2,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N01",
+      "to": "ENT_G_001",
+      "distance": 3.2,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_002",
+      "to": "G_CORR_N02",
+      "distance": 1.1,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N02",
+      "to": "ENT_G_002",
+      "distance": 1.1,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_003",
+      "to": "G_CORR_N03",
+      "distance": 1.4,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N03",
+      "to": "ENT_G_003",
+      "distance": 1.4,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_004",
+      "to": "G_CORR_N04",
+      "distance": 1.4,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N04",
+      "to": "ENT_G_004",
+      "distance": 1.4,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_005",
+      "to": "G_CORR_N05",
+      "distance": 8.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N05",
+      "to": "ENT_G_005",
+      "distance": 8.0,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_006",
+      "to": "G_CORR_N02",
+      "distance": 5.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N02",
+      "to": "ENT_G_006",
+      "distance": 5.0,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_007",
+      "to": "G_CORR_N03",
+      "distance": 3.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N03",
+      "to": "ENT_G_007",
+      "distance": 3.0,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_008",
+      "to": "G_CORR_N03",
+      "distance": 4.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N03",
+      "to": "ENT_G_008",
+      "distance": 4.5,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_009",
+      "to": "G_CORR_N04",
+      "distance": 2.8,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N04",
+      "to": "ENT_G_009",
+      "distance": 2.8,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_010",
+      "to": "G_CORR_N04",
+      "distance": 2.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N04",
+      "to": "ENT_G_010",
+      "distance": 2.0,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_011",
+      "to": "G_CORR_N04",
+      "distance": 3.2,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N04",
+      "to": "ENT_G_011",
+      "distance": 3.2,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_012",
+      "to": "G_CORR_N04",
+      "distance": 3.2,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N04",
+      "to": "ENT_G_012",
+      "distance": 3.2,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_013",
+      "to": "G_CORR_N05",
+      "distance": 4.4,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N05",
+      "to": "ENT_G_013",
+      "distance": 4.4,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_014",
+      "to": "G_CORR_NC02",
+      "distance": 3.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_NC02",
+      "to": "ENT_G_014",
+      "distance": 3.0,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_015",
+      "to": "G_CORR_NC01",
+      "distance": 3.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_NC01",
+      "to": "ENT_G_015",
+      "distance": 3.5,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_016",
+      "to": "G_CORR_N06",
+      "distance": 3.2,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N06",
+      "to": "ENT_G_016",
+      "distance": 3.2,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_017",
+      "to": "G_CORR_SE07",
+      "distance": 1.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE07",
+      "to": "ENT_G_017",
+      "distance": 1.0,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_018",
+      "to": "G_CORR_SE07",
+      "distance": 1.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE07",
+      "to": "ENT_G_018",
+      "distance": 1.0,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_019",
+      "to": "G_CORR_SE07",
+      "distance": 1.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE07",
+      "to": "ENT_G_019",
+      "distance": 1.0,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_020",
+      "to": "G_CORR_SE09",
+      "distance": 0.6,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE09",
+      "to": "ENT_G_020",
+      "distance": 0.6,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_021",
+      "to": "G_CORR_SE09",
+      "distance": 0.6,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE09",
+      "to": "ENT_G_021",
+      "distance": 0.6,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_022",
+      "to": "G_CORR_SE05",
+      "distance": 1.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE05",
+      "to": "ENT_G_022",
+      "distance": 1.0,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_023",
+      "to": "G_CORR_SE05",
+      "distance": 2.1,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE05",
+      "to": "ENT_G_023",
+      "distance": 2.1,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_024",
+      "to": "G_CORR_SW08",
+      "distance": 2.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW08",
+      "to": "ENT_G_024",
+      "distance": 2.0,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_025",
+      "to": "G_CORR_SW08",
+      "distance": 1.8,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW08",
+      "to": "ENT_G_025",
+      "distance": 1.8,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_026",
+      "to": "G_CORR_SW10",
+      "distance": 1.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW10",
+      "to": "ENT_G_026",
+      "distance": 1.5,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_027",
+      "to": "G_CORR_N06",
+      "distance": 5.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N06",
+      "to": "ENT_G_027",
+      "distance": 5.0,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_028",
+      "to": "G_CORR_NC03",
+      "distance": 4.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_NC03",
+      "to": "ENT_G_028",
+      "distance": 4.5,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_029",
+      "to": "G_CORR_NC01",
+      "distance": 1.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_NC01",
+      "to": "ENT_G_029",
+      "distance": 1.0,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_030",
+      "to": "G_CORR_NC03",
+      "distance": 1.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_NC03",
+      "to": "ENT_G_030",
+      "distance": 1.0,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_031",
+      "to": "G_CORR_NC02",
+      "distance": 3.4,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_NC02",
+      "to": "ENT_G_031",
+      "distance": 3.4,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_032",
+      "to": "G_CORR_NC02",
+      "distance": 0.7,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_NC02",
+      "to": "ENT_G_032",
+      "distance": 0.7,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_033",
+      "to": "G_CORR_SW06",
+      "distance": 2.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW06",
+      "to": "ENT_G_033",
+      "distance": 2.0,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_034",
+      "to": "G_CORR_SW06",
+      "distance": 2.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW06",
+      "to": "ENT_G_034",
+      "distance": 2.0,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_035",
+      "to": "G_CORR_C00",
+      "distance": 3.2,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_C00",
+      "to": "ENT_G_035",
+      "distance": 3.2,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_036",
+      "to": "G_CORR_NC03",
+      "distance": 4.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_NC03",
+      "to": "ENT_G_036",
+      "distance": 4.5,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_037",
+      "to": "G_CORR_SW03",
+      "distance": 2.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW03",
+      "to": "ENT_G_037",
+      "distance": 2.5,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_038",
+      "to": "G_CORR_C00",
+      "distance": 2.7,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_C00",
+      "to": "ENT_G_038",
+      "distance": 2.7,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_039",
+      "to": "G_CORR_C00",
+      "distance": 2.7,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_C00",
+      "to": "ENT_G_039",
+      "distance": 2.7,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_040",
+      "to": "G_CORR_C01",
+      "distance": 3.2,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_C01",
+      "to": "ENT_G_040",
+      "distance": 3.2,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_041",
+      "to": "G_CORR_C01",
+      "distance": 3.2,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_C01",
+      "to": "ENT_G_041",
+      "distance": 3.2,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_042",
+      "to": "G_CORR_SW05",
+      "distance": 2.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW05",
+      "to": "ENT_G_042",
+      "distance": 2.5,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_043",
+      "to": "G_CORR_SW04",
+      "distance": 2.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW04",
+      "to": "ENT_G_043",
+      "distance": 2.5,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_044",
+      "to": "G_CORR_SW03",
+      "distance": 1.4,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW03",
+      "to": "ENT_G_044",
+      "distance": 1.4,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_045",
+      "to": "G_CORR_SW04",
+      "distance": 1.4,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW04",
+      "to": "ENT_G_045",
+      "distance": 1.4,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_046",
+      "to": "G_CORR_SW02",
+      "distance": 2.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW02",
+      "to": "ENT_G_046",
+      "distance": 2.5,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_047",
+      "to": "G_CORR_SW05",
+      "distance": 2.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW05",
+      "to": "ENT_G_047",
+      "distance": 2.5,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_048",
+      "to": "G_CORR_SW05",
+      "distance": 2.2,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW05",
+      "to": "ENT_G_048",
+      "distance": 2.2,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_049",
+      "to": "G_CORR_SW05",
+      "distance": 1.4,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW05",
+      "to": "ENT_G_049",
+      "distance": 1.4,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_050",
+      "to": "G_CORR_SE03",
+      "distance": 2.8,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE03",
+      "to": "ENT_G_050",
+      "distance": 2.8,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_051",
+      "to": "G_CORR_SE03",
+      "distance": 2.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE03",
+      "to": "ENT_G_051",
+      "distance": 2.0,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_052",
+      "to": "G_CORR_C00",
+      "distance": 4.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_C00",
+      "to": "ENT_G_052",
+      "distance": 4.5,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_053",
+      "to": "G_CORR_C01",
+      "distance": 3.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_C01",
+      "to": "ENT_G_053",
+      "distance": 3.5,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_054",
+      "to": "G_CORR_C01",
+      "distance": 4.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_C01",
+      "to": "ENT_G_054",
+      "distance": 4.5,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_055",
+      "to": "G_CORR_C01",
+      "distance": 4.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_C01",
+      "to": "ENT_G_055",
+      "distance": 4.5,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_056",
+      "to": "G_CORR_SE02",
+      "distance": 2.1,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE02",
+      "to": "ENT_G_056",
+      "distance": 2.1,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_057",
+      "to": "G_CORR_C02",
+      "distance": 4.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_C02",
+      "to": "ENT_G_057",
+      "distance": 4.5,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_058",
+      "to": "G_CORR_C03",
+      "distance": 4.3,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_C03",
+      "to": "ENT_G_058",
+      "distance": 4.3,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_059",
+      "to": "G_CORR_C02",
+      "distance": 3.5,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_C02",
+      "to": "ENT_G_059",
+      "distance": 3.5,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_060",
+      "to": "G_CORR_SE01",
+      "distance": 3.4,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE01",
+      "to": "ENT_G_060",
+      "distance": 3.4,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_061",
+      "to": "G_CORR_SE01",
+      "distance": 3.4,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE01",
+      "to": "ENT_G_061",
+      "distance": 3.4,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_062",
+      "to": "G_CORR_SE01",
+      "distance": 3.4,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE01",
+      "to": "ENT_G_062",
+      "distance": 3.4,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_063",
+      "to": "G_CORR_N06",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_N06",
+      "to": "ENT_G_063",
+      "distance": 4.0,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_064",
+      "to": "G_CORR_SE06",
+      "distance": 3.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE06",
+      "to": "ENT_G_064",
+      "distance": 3.0,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_065",
+      "to": "G_CORR_SE08",
+      "distance": 2.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE08",
+      "to": "ENT_G_065",
+      "distance": 2.0,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_066",
+      "to": "G_CORR_SE08",
+      "distance": 2.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE08",
+      "to": "ENT_G_066",
+      "distance": 2.0,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_067",
+      "to": "G_CORR_C03",
+      "distance": 5.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_C03",
+      "to": "ENT_G_067",
+      "distance": 5.0,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_068",
+      "to": "G_CORR_SE08",
+      "distance": 2.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE08",
+      "to": "ENT_G_068",
+      "distance": 2.0,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_069",
+      "to": "G_CORR_SE04",
+      "distance": 2.0,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SE04",
+      "to": "ENT_G_069",
+      "distance": 2.0,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_070",
+      "to": "G_CORR_SW01",
+      "distance": 3.2,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW01",
+      "to": "ENT_G_070",
+      "distance": 3.2,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_071",
+      "to": "G_CORR_SW01",
+      "distance": 3.2,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW01",
+      "to": "ENT_G_071",
+      "distance": 3.2,
+      "accessible": true
+    },
+    {
+      "from": "ENT_G_072",
+      "to": "G_CORR_SW01",
+      "distance": 3.4,
+      "accessible": true
+    },
+    {
+      "from": "G_CORR_SW01",
+      "to": "ENT_G_072",
+      "distance": 3.4,
+      "accessible": true
+    },
+    {
+      "from": "LIFT_CENTRAL_G",
+      "to": "LIFT_CENTRAL_F1",
+      "distance": 5.0,
+      "accessible": true
+    },
+    {
+      "from": "LIFT_CENTRAL_F1",
+      "to": "LIFT_CENTRAL_G",
+      "distance": 5.0,
+      "accessible": true
+    },
+    {
+      "from": "ESC_CENTRAL_G",
+      "to": "ESC_CENTRAL_F1",
+      "distance": 5.0,
+      "accessible": false
+    },
+    {
+      "from": "ESC_CENTRAL_F1",
+      "to": "ESC_CENTRAL_G",
+      "distance": 5.0,
+      "accessible": false
+    },
+    {
+      "from": "STAIRS_CENTRAL_G",
+      "to": "STAIRS_CENTRAL_F1",
+      "distance": 5.0,
+      "accessible": false
+    },
+    {
+      "from": "STAIRS_CENTRAL_F1",
+      "to": "STAIRS_CENTRAL_G",
+      "distance": 5.0,
+      "accessible": false
+    },
+    {
+      "from": "LIFT_NORTH_G",
+      "to": "LIFT_NORTH_F1",
+      "distance": 5.0,
+      "accessible": true
+    },
+    {
+      "from": "LIFT_NORTH_F1",
+      "to": "LIFT_NORTH_G",
+      "distance": 5.0,
+      "accessible": true
+    },
+    {
+      "from": "ESC_NORTH_G",
+      "to": "ESC_NORTH_F1",
+      "distance": 5.0,
+      "accessible": false
+    },
+    {
+      "from": "ESC_NORTH_F1",
+      "to": "ESC_NORTH_G",
+      "distance": 5.0,
+      "accessible": false
+    },
+    {
+      "from": "STAIRS_NORTH_G",
+      "to": "STAIRS_NORTH_F1",
+      "distance": 5.0,
+      "accessible": false
+    },
+    {
+      "from": "STAIRS_NORTH_F1",
+      "to": "STAIRS_NORTH_G",
+      "distance": 5.0,
+      "accessible": false
+    },
+    {
+      "from": "LIFT_SOUTH_G",
+      "to": "LIFT_SOUTH_F1",
+      "distance": 5.0,
+      "accessible": true
+    },
+    {
+      "from": "LIFT_SOUTH_F1",
+      "to": "LIFT_SOUTH_G",
+      "distance": 5.0,
+      "accessible": true
+    },
+    {
+      "from": "ESC_SOUTH_G",
+      "to": "ESC_SOUTH_F1",
+      "distance": 5.0,
+      "accessible": false
+    },
+    {
+      "from": "ESC_SOUTH_F1",
+      "to": "ESC_SOUTH_G",
+      "distance": 5.0,
+      "accessible": false
+    },
+    {
+      "from": "STAIRS_SOUTH_G",
+      "to": "STAIRS_SOUTH_F1",
+      "distance": 5.0,
+      "accessible": false
+    },
+    {
+      "from": "STAIRS_SOUTH_F1",
+      "to": "STAIRS_SOUTH_G",
+      "distance": 5.0,
+      "accessible": false
+    },
+    {
+      "from": "LIFT_CENTRAL_F2",
+      "to": "LIFT_CENTRAL_F1",
+      "distance": 5.0,
+      "accessible": true
+    },
+    {
+      "from": "ESC_CENTRAL_F2",
+      "to": "ESC_CENTRAL_F1",
+      "distance": 5.0,
+      "accessible": false
+    },
+    {
+      "from": "STAIRS_CENTRAL_F2",
+      "to": "STAIRS_CENTRAL_F1",
+      "distance": 5.0,
+      "accessible": false
+    },
+    {
+      "from": "LIFT_NORTH_F2",
+      "to": "LIFT_NORTH_F1",
+      "distance": 5.0,
+      "accessible": true
+    },
+    {
+      "from": "ESC_NORTH_F2",
+      "to": "ESC_NORTH_F1",
+      "distance": 5.0,
+      "accessible": false
+    },
+    {
+      "from": "STAIRS_NORTH_F2",
+      "to": "STAIRS_NORTH_F1",
+      "distance": 5.0,
+      "accessible": false
+    },
+    {
+      "from": "LIFT_SOUTH_F2",
+      "to": "LIFT_SOUTH_F1",
+      "distance": 5.0,
+      "accessible": true
+    },
+    {
+      "from": "ESC_SOUTH_F2",
+      "to": "ESC_SOUTH_F1",
+      "distance": 5.0,
+      "accessible": false
+    },
+    {
+      "from": "STAIRS_SOUTH_F2",
+      "to": "STAIRS_SOUTH_F1",
+      "distance": 5.0,
+      "accessible": false
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "nodes": [
+    {"id": "GATE_1", "name": "Gate 1 (North Entry)", "floor": 1, "x": 50, "y": 6, "type": "gate"},
+    {"id": "GATE_2", "name": "Gate 2 (East Promenade Entry)", "floor": 1, "x": 94, "y": 45, "type": "gate"},
+    {"id": "GATE_3", "name": "Gate 3 (South Boulevard Entry)", "floor": 1, "x": 50, "y": 94, "type": "gate"},
+    {"id": "GATE_4", "name": "Gate 4 (West Plaza Entry)", "floor": 1, "x": 6, "y": 45, "type": "gate"},
+    {"id": "GATE_PARKING", "name": "Parking Lobby Entry", "floor": 1, "x": 15, "y": 85, "type": "gate"},
+
+    {"id": "J_F1_N", "name": "North Promenade Junction (F1)", "floor": 1, "x": 50, "y": 15, "type": "junction"},
+    {"id": "J_F1_WN", "name": "North-West Corridor (F1)", "floor": 1, "x": 25, "y": 15, "type": "junction"},
+    {"id": "J_F1_EN", "name": "North-East Corridor (F1)", "floor": 1, "x": 75, "y": 15, "type": "junction"},
+    {"id": "J_F1_ATRIUM", "name": "Central Atrium Junction (F1)", "floor": 1, "x": 50, "y": 40, "type": "junction"},
+    {"id": "J_F1_W_MID", "name": "West Wing Junction (F1)", "floor": 1, "x": 25, "y": 45, "type": "junction"},
+    {"id": "J_F1_E_MID", "name": "East Wing Junction (F1)", "floor": 1, "x": 75, "y": 45, "type": "junction"},
+    {"id": "J_F1_S", "name": "South Boulevard Junction (F1)", "floor": 1, "x": 50, "y": 85, "type": "junction"},
+    {"id": "J_F1_WS", "name": "South-West Corridor (F1)", "floor": 1, "x": 25, "y": 75, "type": "junction"},
+    {"id": "J_F1_ES", "name": "South-East Corridor (F1)", "floor": 1, "x": 75, "y": 75, "type": "junction"},
+
+    {"id": "ELEVATOR_N_F1", "name": "North Elevator (F1)", "floor": 1, "x": 50, "y": 25, "type": "elevator"},
+    {"id": "ESCALATOR_C_F1", "name": "Central Escalator (F1)", "floor": 1, "x": 50, "y": 50, "type": "escalator"},
+    {"id": "STAIRS_S_F1", "name": "South Staircase (F1)", "floor": 1, "x": 50, "y": 75, "type": "stairs"},
+
+    {"id": "STORE_ZARA", "name": "Zara", "floor": 1, "x": 75, "y": 30, "type": "store"},
+    {"id": "STORE_HM", "name": "H&M", "floor": 1, "x": 25, "y": 30, "type": "store"},
+    {"id": "STORE_LEVIS", "name": "Levi's Store", "floor": 1, "x": 75, "y": 65, "type": "store"},
+    {"id": "STORE_APPLE", "name": "Apple Store", "floor": 1, "x": 25, "y": 65, "type": "store"},
+    {"id": "STORE_SEPHORA", "name": "Sephora", "floor": 1, "x": 75, "y": 18, "type": "store"},
+    {"id": "STORE_STARBUCKS", "name": "Starbucks Coffee", "floor": 1, "x": 25, "y": 18, "type": "store"},
+    {"id": "STORE_DECATHLON", "name": "Decathlon Sports", "floor": 1, "x": 25, "y": 80, "type": "store"},
+    {"id": "STORE_TANISHQ", "name": "Tanishq Jewellery", "floor": 1, "x": 75, "y": 80, "type": "store"},
+    {"id": "STORE_SPAR", "name": "Demo Supermarket", "floor": 1, "x": 86, "y": 50, "type": "store"},
+    {"id": "AMENITY_RESTROOM_F1", "name": "Restroom (F1)", "floor": 1, "x": 12, "y": 25, "type": "amenity"},
+    {"id": "AMENITY_INFO_F1", "name": "Information Desk (F1)", "floor": 1, "x": 50, "y": 40, "type": "amenity"},
+
+    {"id": "J_F2_N", "name": "North Junction (F2)", "floor": 2, "x": 50, "y": 15, "type": "junction"},
+    {"id": "J_F2_WN", "name": "North-West Corridor (F2)", "floor": 2, "x": 25, "y": 20, "type": "junction"},
+    {"id": "J_F2_EN", "name": "North-East Corridor (F2)", "floor": 2, "x": 75, "y": 20, "type": "junction"},
+    {"id": "J_F2_CENTER", "name": "Central Lounge Junction (F2)", "floor": 2, "x": 50, "y": 45, "type": "junction"},
+    {"id": "J_F2_W_MID", "name": "West Wing Junction (F2)", "floor": 2, "x": 25, "y": 45, "type": "junction"},
+    {"id": "J_F2_E_MID", "name": "East Wing Junction (F2)", "floor": 2, "x": 75, "y": 45, "type": "junction"},
+    {"id": "J_F2_FOOD", "name": "Food Terrace Plaza (F2)", "floor": 2, "x": 50, "y": 60, "type": "junction"},
+    {"id": "J_F2_WS", "name": "Food Terrace West (F2)", "floor": 2, "x": 25, "y": 65, "type": "junction"},
+    {"id": "J_F2_ES", "name": "Food Terrace East (F2)", "floor": 2, "x": 75, "y": 65, "type": "junction"},
+
+    {"id": "ELEVATOR_N_F2", "name": "North Elevator (F2)", "floor": 2, "x": 50, "y": 25, "type": "elevator"},
+    {"id": "ESCALATOR_C_F2", "name": "Central Escalator (F2)", "floor": 2, "x": 50, "y": 50, "type": "escalator"},
+    {"id": "STAIRS_S_F2", "name": "South Staircase (F2)", "floor": 2, "x": 50, "y": 75, "type": "stairs"},
+
+    {"id": "STORE_FOOD_COURT", "name": "Food Court & Dining Terrace", "floor": 2, "x": 50, "y": 65, "type": "store"},
+    {"id": "STORE_HALDIRAMS", "name": "Haldiram's", "floor": 2, "x": 75, "y": 65, "type": "store"},
+    {"id": "STORE_MCDONALDS", "name": "McDonald's", "floor": 2, "x": 25, "y": 65, "type": "store"},
+    {"id": "STORE_PVR", "name": "PVR INOX Multiplex", "floor": 2, "x": 50, "y": 14, "type": "store"},
+    {"id": "STORE_FUNCITY", "name": "Fun City Gaming Arcade", "floor": 2, "x": 80, "y": 25, "type": "store"},
+    {"id": "STORE_CROMA", "name": "Croma Electronics", "floor": 2, "x": 25, "y": 35, "type": "store"},
+    {"id": "STORE_NYKAA", "name": "Nykaa Luxe", "floor": 2, "x": 75, "y": 35, "type": "store"},
+    {"id": "STORE_MINISO", "name": "Miniso Lifestyle", "floor": 2, "x": 80, "y": 50, "type": "store"},
+    {"id": "STORE_NIKE", "name": "Nike Store", "floor": 2, "x": 20, "y": 50, "type": "store"},
+    {"id": "AMENITY_RESTROOM_F2", "name": "Restroom (F2)", "floor": 2, "x": 12, "y": 25, "type": "amenity"}
+  ],
+  "edges": [
+    {"from": "GATE_1", "to": "J_F1_N", "distance": 9.0, "type": "corridor"},
+    {"from": "J_F1_N", "to": "ELEVATOR_N_F1", "distance": 10.0, "type": "corridor"},
+    {"from": "J_F1_N", "to": "J_F1_WN", "distance": 25.0, "type": "corridor"},
+    {"from": "J_F1_N", "to": "J_F1_EN", "distance": 25.0, "type": "corridor"},
+
+    {"from": "J_F1_WN", "to": "STORE_STARBUCKS", "distance": 4.0, "type": "store_entry"},
+    {"from": "J_F1_WN", "to": "AMENITY_RESTROOM_F1", "distance": 16.0, "type": "corridor"},
+    {"from": "J_F1_WN", "to": "STORE_HM", "distance": 15.0, "type": "store_entry"},
+    {"from": "J_F1_WN", "to": "J_F1_W_MID", "distance": 30.0, "type": "corridor"},
+
+    {"from": "J_F1_EN", "to": "STORE_SEPHORA", "distance": 4.0, "type": "store_entry"},
+    {"from": "J_F1_EN", "to": "STORE_ZARA", "distance": 15.0, "type": "store_entry"},
+    {"from": "J_F1_EN", "to": "J_F1_E_MID", "distance": 30.0, "type": "corridor"},
+
+    {"from": "ELEVATOR_N_F1", "to": "J_F1_ATRIUM", "distance": 15.0, "type": "corridor"},
+    {"from": "J_F1_ATRIUM", "to": "AMENITY_INFO_F1", "distance": 2.0, "type": "corridor"},
+    {"from": "J_F1_ATRIUM", "to": "ESCALATOR_C_F1", "distance": 10.0, "type": "corridor"},
+    {"from": "J_F1_ATRIUM", "to": "J_F1_W_MID", "distance": 25.0, "type": "corridor"},
+    {"from": "J_F1_ATRIUM", "to": "J_F1_E_MID", "distance": 25.0, "type": "corridor"},
+
+    {"from": "ESCALATOR_C_F1", "to": "STAIRS_S_F1", "distance": 25.0, "type": "corridor"},
+
+    {"from": "J_F1_W_MID", "to": "GATE_4", "distance": 19.0, "type": "corridor"},
+    {"from": "J_F1_W_MID", "to": "STORE_APPLE", "distance": 20.0, "type": "store_entry"},
+    {"from": "J_F1_W_MID", "to": "J_F1_WS", "distance": 30.0, "type": "corridor"},
+
+    {"from": "J_F1_E_MID", "to": "GATE_2", "distance": 19.0, "type": "corridor"},
+    {"from": "J_F1_E_MID", "to": "STORE_SPAR", "distance": 12.0, "type": "store_entry"},
+    {"from": "J_F1_E_MID", "to": "STORE_LEVIS", "distance": 20.0, "type": "store_entry"},
+    {"from": "J_F1_E_MID", "to": "J_F1_ES", "distance": 30.0, "type": "corridor"},
+
+    {"from": "STAIRS_S_F1", "to": "J_F1_S", "distance": 10.0, "type": "corridor"},
+
+    {"from": "J_F1_WS", "to": "STORE_DECATHLON", "distance": 6.0, "type": "store_entry"},
+    {"from": "J_F1_WS", "to": "GATE_PARKING", "distance": 14.0, "type": "corridor"},
+    {"from": "J_F1_WS", "to": "J_F1_S", "distance": 27.0, "type": "corridor"},
+
+    {"from": "J_F1_ES", "to": "STORE_TANISHQ", "distance": 6.0, "type": "store_entry"},
+    {"from": "J_F1_ES", "to": "J_F1_S", "distance": 27.0, "type": "corridor"},
+
+    {"from": "J_F1_S", "to": "GATE_3", "distance": 9.0, "type": "corridor"},
+
+    {"from": "ELEVATOR_N_F1", "to": "ELEVATOR_N_F2", "distance": 12.0, "type": "elevator", "accessible": true},
+    {"from": "ESCALATOR_C_F1", "to": "ESCALATOR_C_F2", "distance": 16.0, "type": "escalator", "accessible": false},
+    {"from": "STAIRS_S_F1", "to": "STAIRS_S_F2", "distance": 20.0, "type": "stairs", "accessible": false},
+
+    {"from": "J_F2_N", "to": "STORE_PVR", "distance": 2.0, "type": "store_entry"},
+    {"from": "J_F2_N", "to": "ELEVATOR_N_F2", "distance": 10.0, "type": "corridor"},
+    {"from": "J_F2_N", "to": "J_F2_WN", "distance": 25.0, "type": "corridor"},
+    {"from": "J_F2_N", "to": "J_F2_EN", "distance": 25.0, "type": "corridor"},
+
+    {"from": "J_F2_WN", "to": "AMENITY_RESTROOM_F2", "distance": 14.0, "type": "corridor"},
+    {"from": "J_F2_WN", "to": "STORE_CROMA", "distance": 15.0, "type": "store_entry"},
+    {"from": "J_F2_WN", "to": "J_F2_W_MID", "distance": 25.0, "type": "corridor"},
+
+    {"from": "J_F2_EN", "to": "STORE_FUNCITY", "distance": 7.0, "type": "store_entry"},
+    {"from": "J_F2_EN", "to": "STORE_NYKAA", "distance": 15.0, "type": "store_entry"},
+    {"from": "J_F2_EN", "to": "J_F2_E_MID", "distance": 25.0, "type": "corridor"},
+
+    {"from": "ELEVATOR_N_F2", "to": "J_F2_CENTER", "distance": 20.0, "type": "corridor"},
+
+    {"from": "J_F2_CENTER", "to": "ESCALATOR_C_F2", "distance": 5.0, "type": "corridor"},
+    {"from": "J_F2_CENTER", "to": "J_F2_W_MID", "distance": 25.0, "type": "corridor"},
+    {"from": "J_F2_CENTER", "to": "J_F2_E_MID", "distance": 25.0, "type": "corridor"},
+
+    {"from": "J_F2_W_MID", "to": "STORE_NIKE", "distance": 7.0, "type": "store_entry"},
+    {"from": "J_F2_W_MID", "to": "J_F2_WS", "distance": 20.0, "type": "corridor"},
+
+    {"from": "J_F2_E_MID", "to": "STORE_MINISO", "distance": 7.0, "type": "store_entry"},
+    {"from": "J_F2_E_MID", "to": "J_F2_ES", "distance": 20.0, "type": "corridor"},
+
+    {"from": "ESCALATOR_C_F2", "to": "J_F2_FOOD", "distance": 10.0, "type": "corridor"},
+
+    {"from": "J_F2_FOOD", "to": "STORE_FOOD_COURT", "distance": 5.0, "type": "store_entry"},
+    {"from": "J_F2_FOOD", "to": "STAIRS_S_F2", "distance": 15.0, "type": "corridor"},
+    {"from": "J_F2_FOOD", "to": "J_F2_WS", "distance": 25.0, "type": "corridor"},
+    {"from": "J_F2_FOOD", "to": "J_F2_ES", "distance": 25.0, "type": "corridor"},
+
+    {"from": "J_F2_WS", "to": "STORE_MCDONALDS", "distance": 2.0, "type": "store_entry"},
+    {"from": "J_F2_ES", "to": "STORE_HALDIRAMS", "distance": 2.0, "type": "store_entry"}
+  ]
+}
